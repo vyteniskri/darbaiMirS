@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QNPtn5/c0BRE3Qf7AiRakeTW0V4LDWdjn7hbN7xOQIbU2ra3tgq8j6si9dJHc2DlnuB2bIWuxmVQE11gl6qwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Labas\\OneDrive - Kaunas University of Technology\\3 kursas 1 dalis\\Lygiagretus programavimas\\Lab1a\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Labas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
