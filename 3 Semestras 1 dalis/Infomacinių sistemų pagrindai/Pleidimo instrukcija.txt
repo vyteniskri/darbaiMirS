@@ -1,0 +1,4 @@
+1) Atidaromas folderis ir ivedama antrasteje cmd
+2) irasoma: npm install
+3) irasoma: npm run dev
+4) Gaunamas svetaines url adresas.
