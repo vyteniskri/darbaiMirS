@@ -1,0 +1,4 @@
+﻿  lab1b.cpp
+C:\Users\Labas\Desktop\3 semestras 1 puse\Lygiagretus programavimas\Lab1b\lab1b\lab1b.cpp(56,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Labas\Desktop\3 semestras 1 puse\Lygiagretus programavimas\Lab1b\lab1b\lab1b.cpp(74,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab1b.vcxproj -> C:\Users\Labas\Desktop\3 semestras 1 puse\Lygiagretus programavimas\Lab1b\lab1b\x64\Debug\lab1b.exe
