@@ -1,0 +1,9 @@
+Traits: naudingi sasajoms tarp klasiu pasidaliunti
+Case class: klases kuriose yra papildomai sugeneruojami paprasciausi metodai, kaip equals, hashcode, tostring. Siose klasese atvaizduojami nekintancios reiksmes su val parametru
+val yra nekintancios reiksmes
+var yra kintancios reiksmes 
+Object - tai igyvendintas konteineris statinem reiksmem ir metodams saugoti.
+Tuples - tai strukturos kurios apjungia tarpusavyje dvi reiksmes, taip galima grazinti metode daugiau reiksmiu nei viena reiksme
+Patern maching - naudojami case ir tikrinama kuri casa atitinka ieskoma reiksme
+lazy priskirtos reikmes nera vykdomos iki kol bus pirma karta panaudotos
+High-order funkcijos priimka kitas funkcijas kaip parametrus arba grazina funkcija kaip rezultata.

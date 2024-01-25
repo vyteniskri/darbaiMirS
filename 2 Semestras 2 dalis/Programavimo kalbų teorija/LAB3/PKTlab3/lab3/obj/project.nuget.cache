@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJ55dNUwXg0nM3xouQWrwIWVwDtV+X/2ASOC5xb11sPmLIhNVECEdh04H94bz857PrXr7y2EAl+ccgq56XEEAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Labas\\Desktop\\PKT\\PKTlab3\\lab3\\lab3.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Labas\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
