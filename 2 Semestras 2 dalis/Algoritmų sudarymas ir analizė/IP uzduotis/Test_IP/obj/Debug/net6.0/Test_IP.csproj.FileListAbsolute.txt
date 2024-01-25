@@ -1,0 +1,15 @@
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\bin\Debug\net6.0\Test_IP.exe
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\bin\Debug\net6.0\Test_IP.deps.json
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\bin\Debug\net6.0\Test_IP.runtimeconfig.json
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\bin\Debug\net6.0\Test_IP.dll
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\bin\Debug\net6.0\Test_IP.pdb
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.csproj.AssemblyReference.cache
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.AssemblyInfoInputs.cache
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.AssemblyInfo.cs
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.dll
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\refint\Test_IP.dll
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.pdb
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\Test_IP.genruntimeconfig.cache
+C:\Users\Labas\Desktop\Algoritmu analize\algoru IP\Test_IP\obj\Debug\net6.0\ref\Test_IP.dll

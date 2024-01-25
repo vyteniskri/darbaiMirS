@@ -1,0 +1,15 @@
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\bin\Debug\net7.0\BMP.exe
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\bin\Debug\net7.0\BMP.deps.json
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\bin\Debug\net7.0\BMP.runtimeconfig.json
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\bin\Debug\net7.0\BMP.dll
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\bin\Debug\net7.0\BMP.pdb
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.csproj.AssemblyReference.cache
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.AssemblyInfoInputs.cache
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.AssemblyInfo.cs
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.dll
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\refint\BMP.dll
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.pdb
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\BMP.genruntimeconfig.cache
+C:\Users\Labas\Desktop\Algoritmu analize\BMP\obj\Debug\net7.0\ref\BMP.dll

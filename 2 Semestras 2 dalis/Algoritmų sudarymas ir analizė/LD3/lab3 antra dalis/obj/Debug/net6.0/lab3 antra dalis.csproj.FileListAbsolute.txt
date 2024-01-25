@@ -1,0 +1,15 @@
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\bin\Debug\net6.0\lab3 antra dalis.exe
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\bin\Debug\net6.0\lab3 antra dalis.deps.json
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\bin\Debug\net6.0\lab3 antra dalis.runtimeconfig.json
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\bin\Debug\net6.0\lab3 antra dalis.dll
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\bin\Debug\net6.0\lab3 antra dalis.pdb
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.csproj.AssemblyReference.cache
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.AssemblyInfoInputs.cache
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.AssemblyInfo.cs
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.dll
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\refint\lab3 antra dalis.dll
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.pdb
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\lab3 antra dalis.genruntimeconfig.cache
+C:\Users\Labas\Desktop\Algoritmu analize\LD3\lab3 antra dalis\obj\Debug\net6.0\ref\lab3 antra dalis.dll

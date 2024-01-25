@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "lab2": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "authenticationMode": "None"
+    }
+  }
+}

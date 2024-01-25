@@ -1,0 +1,21 @@
+static void RecursiveSquare(Renderer Render, double X, double Y, double Size, uint Iteration)
+        {
+            if (Iteration == 0)
+            {
+                Render.DrawFilledSquare(X - (Size * (1d / 2d)), Y - (Size * (1d / 6d)), Size, Size * (1d / 3d));
+                Render.DrawFilledSquare(X - (Size * (1d / 6d)), Y - (Size * (1d / 2d)), Size * (1d / 3d), Size);
+
+                return;
+            }
+
+            double IterSize = Math.Pow(3, Iteration + 1);
+            double NextSize = (Math.Pow(3, Iteration) / IterSize) * Size;
+
+            double Distance = (Size / 2) - (NextSize / 2);
+
+            RecursiveSquare(Render, X, Y, NextSize, Iteration - 1);
+            RecursiveSquare(Render, X + Distance, Y, NextSize, Iteration - 1);
+            RecursiveSquare(Render, X - Distance, Y, NextSize, Iteration - 1);
+            RecursiveSquare(Render, X, Y + Distance, NextSize, Iteration - 1);
+            RecursiveSquare(Render, X, Y - Distance, NextSize, Iteration - 1);
+        }
