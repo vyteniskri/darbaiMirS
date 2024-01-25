@@ -1,0 +1,126 @@
+@model Sporto_irangos_prekyba.Models.AtaskaitaReport.Report
+
+@* this will also be used as page title in main layout *@
+@{ ViewData["title"] = "Tiekėjų ataskaita"; }
+
+@* content header *@
+<div class="main-content-header">
+	<span class="title">@ViewData["title"]</span>
+</div>
+
+@* content itself *@
+<div class="main-content-rep">
+@using( Html.BeginForm(FormMethod.Get, new { @class="rep" }) )
+{
+	<p><strong>Parengta:</strong> @String.Format("{0:yyyy-MM-dd HH:mm}", DateTime.Now)</p>
+
+	@* filter section *@
+	<div class="filter">
+		<div class="fields">
+			<div class="field">
+				<label>Sutartys nuo:</label>
+				@Html.TextBoxFor(m => m.DateFrom, "{0:yyyy-MM-dd}", new { @class = "date-picker" })
+			</div>
+
+			<div class="field">
+				<label>Sutartys iki:</label>
+				@Html.TextBoxFor(m => m.DateTo, "{0:yyyy-MM-dd}", new { @class = "date-picker" })
+			</div>
+
+            <div class="field">
+				<label>Kaina nuo:</label>
+				@Html.TextBoxFor(m => m.KainaNuo)
+			</div>
+		</div>
+
+		<div class="buttons">
+			<button class="btn btn-success"><i class="fa-solid fa-filter"></i> Atrinkti</button>
+		</div>
+	</div>
+
+	@* report data *@
+	<table class="report">
+		<thead>
+			<tr>
+				<th>@Html.DisplayNameFor(m => m.Tiekejai[0].PrekesPavadinimas)</th>
+				<th>@Html.DisplayNameFor(m => m.Tiekejai[0].Svoris)</th>
+				<th>@Html.DisplayNameFor(m => m.Tiekejai[0].GaliojaNuo)</th>
+				<th>@Html.DisplayNameFor(m => m.Tiekejai[0].GaliojaIki)</th>
+				<th>@Html.DisplayNameFor(m => m.Tiekejai[0].Kaina)</th>
+			</tr>
+		</thead>
+		<tbody>
+			@if( Model.Tiekejai.Count == 0 )
+			{
+				@* no data message *@
+				<tr class="no-data-msg">
+					<td colspan="4" align="center">Nurodytame laikotarpyje nebuvo sudaryta sutarčių</td>
+				</tr>
+			}
+			else 
+			{
+				@* groups *@
+				@for( int i = 0; i < Model.Tiekejai.Count; i++ )
+				{
+					@* group header *@
+					if( i == 0 || Model.Tiekejai[i].Id != Model.Tiekejai[i-1].Id)
+					{
+						<tr class="group-header">
+							<td 
+								colspan="5" 
+								align="center"
+							>
+								<b>@Html.DisplayFor(m => Model.Tiekejai[i].TiekejoPavadinimas)</b>
+							</td>
+						</tr>
+					}
+
+					
+					
+					@* group content *@
+					<tr>
+						<td>@Html.DisplayFor(m => Model.Tiekejai[i].PrekesPavadinimas)</td>
+						<td>@Html.DisplayFor(m => Model.Tiekejai[i].Svoris)</td>
+						<td>@(Model.Tiekejai[i].GaliojaNuo == DateTime.MinValue ? "-" : Html.DisplayFor(m => Model.Tiekejai[i].GaliojaNuo))</td>
+						<td>@(Model.Tiekejai[i].GaliojaIki == DateTime.MinValue ? "-" : Html.DisplayFor(m => Model.Tiekejai[i].GaliojaIki))</td>
+						<td>@(Model.Tiekejai[i].Kaina == 0 ? "-" : Html.DisplayFor(m => Model.Tiekejai[i].Kaina))</td>
+					</tr>
+
+					@* group total *@
+					if( i == Model.Tiekejai.Count-1 || Model.Tiekejai[i].Id != Model.Tiekejai[i + 1].Id)
+					{
+						<tr>
+							<td><b>Prekių kiekis: @Html.DisplayFor(m => Model.Tiekejai[i].BendraSumaPrekiu)</b></td>
+							<td><b>Didžiausias svoris: @Html.DisplayFor(m => Model.Tiekejai[i].MaxSvoris)</b></td>
+							<td><b>Datų skaičius: @Html.DisplayFor(m => Model.Tiekejai[i].BendraSumaDatu)</b></td>
+							<td></td>
+							<td><b>Kainų suma: @Html.DisplayFor(m => Model.Tiekejai[i].BendraSumaKainu)</b></td>
+						</tr>
+					}
+				}
+
+				@* grand total *@
+				<tr class="grand-total-header">
+					<td colspan="5" align="center"><b>Viso</b></td>
+				</tr>
+
+				<tr>
+					<td><b>
+						@Html.DisplayFor(m => Model.VisuPrekiuSkaicius)
+					</b></td>
+					<td><b>
+						@Html.DisplayFor(m => Model.BendrasDidziausiasSvoris)
+					</b></td>
+					<td><b>
+						@Html.DisplayFor(m => Model.VisuDatuSkaicius)
+					</b></td>
+					<td></td>
+					<td><b>
+						@Html.DisplayFor(m => Model.VisuKainuSuma)
+					</b></td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+</div>

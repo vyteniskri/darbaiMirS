@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Sporto_irangos_prekyba.Models.PrekeF2.PrekeL>
+
+@* this will also be used as page title in main layout *@
+@{ ViewData["title"] = "Prekės (F2)"; }
+
+@* content header *@
+<div class="main-content-header">
+	<span class="title">@ViewData["title"]</span>
+	<span class="actions">
+		<a href="@Url.Action("Create")" class="btn btn-primary"><i class="fa-solid fa-plus"></i> Sukurti naują</a>
+	</span>
+</div>
+
+@* content itself *@
+<div class="main-content-lst">
+	<table class="entity-list">
+		<thead>
+			<tr>
+				<th>
+					@Html.DisplayNameFor(m => m.Prekes_id)
+				</th>
+				<th>
+					@Html.DisplayNameFor(m => m.Pavadinimas)
+				</th>
+				<th>
+					@Html.DisplayNameFor(m => m.Aprasymas)
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model) {
+			<tr>
+				<td>
+					@Html.DisplayFor(m => item.Prekes_id)
+				</td>
+				<td>
+					@Html.DisplayFor(m => item.Pavadinimas)
+				</td>
+				<td>
+					@Html.DisplayFor(m => item.Aprasymas)
+				</td>
+				<td>
+					<a 
+						href="@Url.Action("Edit", new { id = item.Prekes_id })" 
+						class="btn btn-primary"
+						><i class="fa-solid fa-pen-to-square"></i> Redaguoti</a>
+						
+					<a 
+						href="@Url.Action("Delete", new { id = item.Prekes_id })" 
+						class="btn btn-danger"
+						><i class="fa-solid fa-trash"></i> Šalinti</a>					
+				</td>
+			</tr>
+			}
+		</tbody>
+	</table>
+</div>

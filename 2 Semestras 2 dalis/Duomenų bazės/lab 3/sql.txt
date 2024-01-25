@@ -1,0 +1,23 @@
+SELECT tiekejai.pavadinimas, COUNT( IF(tiekejai.tiekejo_id = prekes.fk_tiekejas,1, NULL)) AS skaicius FROM tiekejai LEFT JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;
+
+
+
+SELECT tiekejai.pavadinimas, COUNT( IF(tiekejai.tiekejo_id = prekes.fk_tiekejas, 1, NULL)) AS skaicius, MAX( IF(tiekejai.tiekejo_id = prekes.fk_tiekejas AND parametrai.parametro_id = prekes.fk_parametras, parametrai.svoris, NULL)) AS max_svoris FROM tiekejai LEFT JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id INNER JOIN parametrai ON parametrai.parametro_id = prekes.fk_parametras GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;
+
+
+SELECT tiekejai.pavadinimas, COUNT(*) AS skaicius, MAX( IF(parametrai.parametro_id = prekes.fk_parametras, parametrai.svoris, NULL)) AS max_svoris FROM tiekejai LEFT JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id INNER JOIN parametrai ON parametrai.parametro_id = prekes.fk_parametras GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;
+
+
+SELECT tiekejai.pavadinimas, COUNT(IF(tiekejai.tiekejo_id = prekes.fk_tiekejas, 1, NULL)) AS skaicius, MAX( IF(parametrai.parametro_id = prekes.fk_parametras, parametrai.svoris, NULL)) AS max_svoris FROM tiekejai LEFT JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id LEFT JOIN parametrai ON parametrai.parametro_id = prekes.fk_parametras GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;
+
+
+SELECT tiekejai.pavadinimas, COUNT(IF(tiekejai.tiekejo_id = prekes.fk_tiekejas, 1, NULL)) AS skaicius, LOWER(MAX( IF(parametrai.parametro_id = prekes.fk_parametras, parametrai.svoris, NULL))) AS max_svoris FROM tiekejai LEFT JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id LEFT JOIN parametrai ON parametrai.parametro_id = prekes.fk_parametras GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;
+
+SELECT tiekejai.pavadinimas, COUNT(IF(tiekejai.tiekejo_id = prekes.fk_tiekejas, 1, NULL)) AS skaicius, floor(MAX( IF(parametrai.parametro_id = prekes.fk_parametras, parametrai.svoris, NULL))) AS max_svoris, COUNT(IF(YEAR(prekiu_kainos.galioja_nuo) > 2002 AND YEAR(prekiu_kainos.galioja_iki) < 2023, 1, NULL)) AS paimta FROM tiekejai INNER JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id INNER JOIN parametrai ON parametrai.parametro_id = prekes.fk_parametras LEFT JOIN prekiu_kainos ON prekes.prekes_id = prekiu_kainos.fk_preke GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;
+
+
+SELECT tiekejai.pavadinimas, COUNT(IF(tiekejai.tiekejo_id = prekes.fk_tiekejas, 1, NULL)) AS skaicius, floor(MAX( IF(parametrai.parametro_id = prekes.fk_parametras, parametrai.svoris, NULL))) AS max_svoris, COUNT(IF(YEAR(prekiu_kainos.galioja_nuo) > 2002 AND YEAR(prekiu_kainos.galioja_iki) < 2023, 1, NULL)) AS paimta, SUM( IF(prekiu_kainos.kaina > 10, prekiu_kainos.kaina, NULL)) AS kaina FROM tiekejai INNER JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id INNER JOIN parametrai ON parametrai.parametro_id = prekes.fk_parametras LEFT JOIN prekiu_kainos ON prekes.prekes_id = prekiu_kainos.fk_preke GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;
+
+
+
+SELECT tiekejai.pavadinimas, COUNT(IF(tiekejai.tiekejo_id = prekes.fk_tiekejas, 1, NULL)) AS skaicius, floor(MAX( IF(parametrai.parametro_id = prekes.fk_parametras, parametrai.svoris, NULL))) AS max_svoris, COUNT(IF(YEAR(prekiu_kainos.galioja_nuo) > 2002 AND YEAR(prekiu_kainos.galioja_iki) < 2023, 1, NULL)) AS paimta, SUM( IF(prekiu_kainos.kaina > 10, prekiu_kainos.kaina, NULL)) AS kaina FROM tiekejai INNER JOIN prekes ON prekes.fk_tiekejas = tiekejai.tiekejo_id INNER JOIN parametrai ON parametrai.parametro_id = prekes.fk_parametras LEFT JOIN prekiu_kainos ON prekes.prekes_id = prekiu_kainos.fk_preke GROUP BY tiekejai.pavadinimas ORDER BY `skaicius` DESC;

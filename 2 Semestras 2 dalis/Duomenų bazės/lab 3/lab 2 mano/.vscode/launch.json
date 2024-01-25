@@ -1,0 +1,20 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Sporto_irangos_prekyba",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build",
+			"program": "${workspaceFolder}/Sporto_irangos_prekyba/bin/Debug/net6.0/Sporto_irangos_prekyba.dll",
+			"args": [],
+			"cwd": "${workspaceFolder}/Sporto_irangos_prekyba",
+			"stopAtEntry": false,			
+			"sourceFileMap": {
+				"/Views": "${workspaceFolder}/Views"
+			}
+		}
+		
+	]
+	
+}
