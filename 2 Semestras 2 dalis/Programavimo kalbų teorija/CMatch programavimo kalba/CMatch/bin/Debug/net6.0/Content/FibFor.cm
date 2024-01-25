@@ -1,0 +1,9 @@
+﻿a = 0; b = 1; c = 0; 
+WriteLine(a + " " + b);  
+for (i = 2; i < 10; i = i + 1)  
+{  
+    c= a + b;
+    WriteLine("C = " + c);  
+    a= b;  
+    b= c;  
+}

@@ -1,0 +1,6 @@
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchLexer.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchParser.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchListener.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchBaseListener.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchVisitor.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchBaseVisitor.cs

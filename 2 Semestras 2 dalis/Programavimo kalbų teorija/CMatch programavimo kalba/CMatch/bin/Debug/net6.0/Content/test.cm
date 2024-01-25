@@ -1,0 +1,106 @@
+
+func F(b=8)
+{
+    WriteFile(b);
+}
+b=8;
+WriteLine(F(b));
+
+
+
+file = ReadFile("Content\\test.txt");
+WriteLine(file);
+write = "Gaidys.";
+WriteFile("Content\\testWrite.txt", "Failo pradzia");
+AppendFile("Content\\testWrite.txt", write);
+a=("Pienas",4);
+a=-123.7777;
+WriteLine(a);
+match (a)
+{
+    case -###.7777 :
+    {
+        WriteLine("YRA");
+    }
+    case (#, 4) :
+    {
+        WriteLine("Testas su touple" + a);
+    }
+    case 123.#### :
+    {
+        WriteLine("Priekini double rado");
+    }
+    case constdouble :
+    {
+        WriteLine("Iejo i case su double " +a);
+    }
+    case "6" :
+    {
+        WriteLine("Testas su skaiciumn");
+    }
+    case constint :
+    {
+        WriteLine("Patikrino ar intas "+a);
+        a=3;
+    }
+    case conststring : 
+    {
+        WriteLine("testas stringo");
+    }
+    case "Ipsum" :
+    {
+        WriteLine("Testas su zodziu is teksto");
+    }
+    case 5 :
+    {
+        WriteLine("Patikrino su skaiciumi " + a);
+        a=3;
+    }
+    case constbool :
+    {
+        WriteLine("Testas su boolean");
+    }
+    case _ :
+    {
+        WriteLine("testas su underscore "+ a);
+    }
+};
+
+WriteLine("A dabar yra: " + a);
+
+
+f = true
+i=2;
+j = i + 4.2;
+for (i = 0; i < 5; i = i + 1)
+{
+    WriteLine("" + i);
+}
+test = 3;
+
+
+if(test == 2)
+{
+    WriteLine("Tiesa");
+}
+or if(test != 2)
+{
+    WriteLine("Netiesa");
+}
+or
+{
+    WriteLine("Kazkas ne taip");
+}
+a = 4 * 2;
+b = 4 / 2;
+c = 4 - 2;
+d = 3 % 2;
+e = false;
+a="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text";
+AppendFile("Content\\testWrite.txt", a);
+
+a = 7;
+b = "CMatch";
+c= 7.7;
+d=(7,7);
+e=true;

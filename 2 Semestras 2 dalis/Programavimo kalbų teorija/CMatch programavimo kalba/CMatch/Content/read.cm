@@ -1,0 +1,4 @@
+a = ReadLine();
+WriteLine(" ");
+
+WriteLine(a);

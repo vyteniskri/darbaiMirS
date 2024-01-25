@@ -1,0 +1,53 @@
+a = ReadLine();
+
+WriteLine(a);
+
+a=7;
+WriteLine("A reiksme yra: " + a);
+match (a)
+{
+    case ###.777 :
+    {
+        WriteLine("YRA");
+    }
+    case ("Pienas",#) :
+    {
+        WriteLine("Testas su touple" + a);
+    }
+    case 10.## :
+    {
+        WriteLine("Priekini double rado");
+    }
+    case 7 :
+    {
+        WriteLine("Patikrino su skaiciumi " + a);
+    }
+    case constbool :
+    {
+        WriteLine("Patikrino ar Boolas "+a);
+    }
+    case constint :
+    {
+        WriteLine("Patikrino ar intas "+a);
+    }
+    case constdouble :
+    {
+        WriteLine("Iejo i case su double " +a);
+    }
+    case "Ipsuma" :
+    {
+        WriteLine("Testas su zodziu is teksto");
+    }
+    case conststring : 
+    {
+        WriteLine("testas stringo");
+    }
+    case constbool :
+    {
+        WriteLine("Testas su boolean");
+    }
+    case _ :
+    {
+        WriteLine("testas su underscore "+ a);
+    }
+};

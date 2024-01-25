@@ -1,0 +1,56 @@
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.AssemblyReference.cache
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatchLexer.cs
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatchParser.cs
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatchListener.cs
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatchBaseListener.cs
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatchVisitor.cs
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatchBaseVisitor.cs
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.AssemblyInfoInputs.cache
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.AssemblyInfo.cs
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.CoreCompileInputs.cache
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\CMatch.exe
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\Content\test.cm
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\CMatch.deps.json
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\CMatch.runtimeconfig.json
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\CMatch.dll
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\CMatch.pdb
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\Antlr4.Runtime.dll
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.CopyComplete
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.dll
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\refint\CMatch.dll
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.pdb
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\CMatch.genruntimeconfig.cache
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\obj\Debug\net6.0\ref\CMatch.dll
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\Content\test.txt
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\Content\testWrite.txt
+C:\Users\Arunce\Documents\Unikas\4 semestras\Programavimo kalbų teorija\Compiler_OR_Interpreter\CMatch\CMatch\bin\Debug\net6.0\Content\FibFor.cm
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\CMatch.exe
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\Content\FibFor.cm
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\Content\test.cm
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\Content\test.txt
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\CMatch.deps.json
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\CMatch.runtimeconfig.json
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\CMatch.dll
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\CMatch.pdb
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\Antlr4.Runtime.dll
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.AssemblyReference.cache
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchLexer.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchParser.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchListener.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchBaseListener.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchVisitor.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatchBaseVisitor.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.AssemblyInfoInputs.cache
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.AssemblyInfo.cs
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.csproj.CopyComplete
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.dll
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\refint\CMatch.dll
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.pdb
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\CMatch.genruntimeconfig.cache
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\obj\Debug\net6.0\ref\CMatch.dll
+C:\Users\Labas\Desktop\Cmatch aruno\CMatch\CMatch\bin\Debug\net6.0\Content\testWrite.txt
