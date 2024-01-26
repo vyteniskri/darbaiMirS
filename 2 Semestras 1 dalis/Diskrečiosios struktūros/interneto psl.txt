@@ -1,0 +1,2 @@
+https://www.emathhelp.net/calculators/linear-algebra/cofactor-matrix-calculator/?i=%5B%5B2%2C-1%2C0%2C-1%5D%2C%5B-1%2C2%2C-1%2C0%5D%2C%5B0%2C-1%2C2%2C-1%5D%2C%5B-1%2C0%2C-1%2C2%5D%5D
+https://www.geeksforgeeks.org/total-number-spanning-trees-graph/
