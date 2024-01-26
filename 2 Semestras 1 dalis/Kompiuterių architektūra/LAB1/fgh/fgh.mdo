@@ -1,0 +1,27 @@
+if {![file exists "F:/Mokslai KTU/Architektura/fgh/fgh.mpf"]} { 
+	project new "F:/Mokslai KTU/Architektura/fgh" fgh
+	project addfile "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_alu_s.vhd"
+	project addfile "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_cnt.vhd"
+	project addfile "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_ctrl.vhd"
+	project addfile "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_flg.vhd"
+	project addfile "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_mux.vhd"
+	project addfile "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_reg.vhd"
+	project addfile "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_rom.vhd"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_alu_s.vhd"
+	vcom -work work "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_cnt.vhd"
+	vcom -work work "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_ctrl.vhd"
+	vcom -work work "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_flg.vhd"
+	vcom -work work "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_mux.vhd"
+	vcom -work work "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_reg.vhd"
+	vcom -work work "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_rom.vhd"
+} else {
+	project open "F:/Mokslai KTU/Architektura/fgh/fgh"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_xp2  ROM
+view wave
+add wave /*
+run 1000ns

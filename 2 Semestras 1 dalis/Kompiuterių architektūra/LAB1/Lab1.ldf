@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="Lab1" device="LFXP2-5E-6TN144C" default_implementation="impl1">
+    <Options>
+        <Option name="HDL type" value="VHDL"/>
+    </Options>
+    <Implementation title="impl1" dir="impl1" description="impl1" synthesis="synplify" default_strategy="Strategy1">
+        <Options def_top="TOP"/>
+        <Source name="Reikalingi failai n. adresacijai/N_alu_s.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="Reikalingi failai n. adresacijai/N_cnt.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="Reikalingi failai n. adresacijai/N_ctrl.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="Reikalingi failai n. adresacijai/N_flg.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="Reikalingi failai n. adresacijai/N_mux.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="Reikalingi failai n. adresacijai/N_reg.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="Reikalingi failai n. adresacijai/N_rom.vhd" type="VHDL" type_short="VHDL">
+            <Options/>
+        </Source>
+        <Source name="Reikalingi failai n. adresacijai/N_top.vhd" type="VHDL" type_short="VHDL">
+            <Options top_module="TOP"/>
+        </Source>
+        <Source name="dasd/dasd.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="dfgs/dfgs.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="dfs/dfs.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="ds/ds.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="dsad/dsad.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="fd/fd.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="fdcg/fdcg.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="fgdfg/fgdfg.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="fgh/fgh.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="fsdf/fsdf.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="gdg/gdg.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="h/h.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="hfg/hfg.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="j/j.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="Lab1.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="pirmasb/pirmasb.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="rte/rte.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="Lab11.sty"/>
+</BaliProject>

@@ -1,0 +1,15 @@
+#Start recording tcl command: 9/18/2022 16:54:26
+#Project Location: F:/Mokslai KTU/Architektura; Project name: Lab1
+prj_project open "F:/Mokslai KTU/Architektura/Lab1.ldf"
+prj_src add "F:/Mokslai KTU/Architektura/gdg/gdg.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/fsdf/fsdf.spf"
+prj_run Synthesis -impl impl1
+prj_run Synthesis -impl impl1
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/j/j.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/hfg/hfg.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/dfgs/dfgs.spf"
+#Stop recording: 9/18/2022 22:32:09

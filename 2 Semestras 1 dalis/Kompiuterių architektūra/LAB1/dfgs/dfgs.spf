@@ -1,0 +1,14 @@
+<BaliSimProject version="1.3" path="." stage="0" language="-1" name="dfgs" simType="ModelSim">
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_flg.vhd" type="VHDL" include="none"/>
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_reg.vhd" type="VHDL" include="none"/>
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_cnt.vhd" type="VHDL" include="none"/>
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_rom.vhd" type="VHDL" include="none"/>
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_alu_s.vhd" type="VHDL" include="none"/>
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_mux.vhd" type="VHDL" include="none"/>
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_ctrl.vhd" type="VHDL" include="none"/>
+    <Source worklib="work" path="Reikalingi failai n. adresacijai/N_top.vhd" type="VHDL" include="none"/>
+    <SimLib value="pmi_work ovi_xp2"/>
+    <GlbInc value=""/>
+    <Macro value=""/>
+    <TopModule instance="" language="VHDL" name="TOP"/>
+</BaliSimProject>

@@ -1,0 +1,2 @@
+@E: CD395 :"F:\Mokslai KTU\Architektura\Reikalingi failai n. adresacijai\N_rom.vhd":72:5:72:74|Constant width 68 does not match context width 69
+

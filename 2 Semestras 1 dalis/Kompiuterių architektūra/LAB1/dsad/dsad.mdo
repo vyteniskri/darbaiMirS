@@ -1,0 +1,29 @@
+if {![file exists "D:/Vytenis Krisciunas/Architektura/dsad/dsad.mpf"]} { 
+	project new "D:/Vytenis Krisciunas/Architektura/dsad" dsad
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_flg.vhd"
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_reg.vhd"
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_cnt.vhd"
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_rom.vhd"
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_alu_s.vhd"
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_mux.vhd"
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_ctrl.vhd"
+	project addfile "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_top.vhd"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_flg.vhd"
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_reg.vhd"
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_cnt.vhd"
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_rom.vhd"
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_alu_s.vhd"
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_mux.vhd"
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_ctrl.vhd"
+	vcom -work work "D:/Vytenis Krisciunas/Architektura/Reikalingi failai n. adresacijai/N_top.vhd"
+} else {
+	project open "D:/Vytenis Krisciunas/Architektura/dsad/dsad"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_xp2  TOP
+view wave
+add wave /*
+run 1000ns

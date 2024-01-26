@@ -1,0 +1,7 @@
+C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe  -link  -top  work.TOP  -multisrs  "D:\Vytenis Krisciunas\Architektura\impl1\synwork\Lab1_impl1_comp.srs"  -osyn  "D:\Vytenis Krisciunas\Architektura\impl1\synwork\Lab1_impl1_mult.srs"  -log  "D:\Vytenis Krisciunas\Architektura\impl1\synlog\Lab1_impl1_multi_srs_gen.srr" 
+relcom:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe -link -top work.TOP -multisrs "D:\Vytenis Krisciunas\Architektura\impl1\synwork\Lab1_impl1_comp.srs" -osyn "D:\Vytenis Krisciunas\Architektura\impl1\synwork\Lab1_impl1_mult.srs" -log "D:\Vytenis Krisciunas\Architektura\impl1\synlog\Lab1_impl1_multi_srs_gen.srr"
+rc:0 success:1 runtime:0
+file:..\synwork\Lab1_impl1_comp.srs|io:i|time:1663836435|size:16442|exec:0|csum:B7A4ECD44C76B83B984C3644B6AB6AE7
+file:..\synwork\Lab1_impl1_mult.srs|io:o|time:1663836436|size:5721|exec:0|csum:
+file:..\synlog\Lab1_impl1_multi_srs_gen.srr|io:o|time:1663836436|size:1134|exec:0|csum:
+file:C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1628576558|size:8899584|exec:1|csum:163057E8B8449A642661642A20A2247D

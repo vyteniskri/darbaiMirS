@@ -1,0 +1,35 @@
+#Start recording tcl command: 9/17/2022 15:28:38
+#Project Location: F:/Mokslai KTU/Architektura; Project name: Lab1
+prj_project new -name "Lab1" -impl "impl1" -dev LFXP2-5E-6TN144C -synthesis "synplify"
+prj_project save
+prj_src add "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_alu_s.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_cnt.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_ctrl.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_flg.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_mux.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_reg.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_rom.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_top.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_alu_s.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_cnt.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_ctrl.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_flg.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_mux.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_reg.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_rom.vhd"
+prj_src remove "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_top.vhd"
+prj_src add "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_alu_s.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_cnt.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_ctrl.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_flg.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_mux.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_reg.vhd" "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_rom.vhd"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/pirmasb/pirmasb.spf"
+prj_src add "F:/Mokslai KTU/Architektura/fgh/fgh.spf"
+prj_src add "F:/Mokslai KTU/Architektura/Reikalingi failai n. adresacijai/N_top.vhd"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/fdcg/fdcg.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/dfs/dfs.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/rte/rte.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/fd/fd.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/fsdf/fsdf.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/ds/ds.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/fgdfg/fgdfg.spf"
+prj_run Synthesis -impl impl1
+prj_src add "F:/Mokslai KTU/Architektura/h/h.spf"
+#Stop recording: 9/17/2022 19:43:39

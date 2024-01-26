@@ -1,0 +1,21 @@
+(N1 + N2^2)/-N3
+Atvirkstinis
+Naturalus
++/+/-
+
+
+0000000000000100 4
+0000000000000011 3
+1111111111111101 -2
+
+
+restart -f
+
+force -freeze sim:/top/RST 1 0, 0 {2 ps}
+force -freeze sim:/top/CLK 0 0, 1 {5 ps} -r 10
+
+force -freeze sim:/top/Din 0000000000000100 0
+force -freeze sim:/top/Din 0000000000000011 20
+force -freeze sim:/top/Din 1111111111111101 30 
+force -freeze sim:/top/Din 0000000000000000 50
+

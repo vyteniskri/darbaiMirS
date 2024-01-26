@@ -1,0 +1,8 @@
+#Start recording tcl command: 9/22/2022 11:36:58
+#Project Location: D:/Vytenis Krisciunas/Architektura; Project name: Lab1
+prj_project open "D:/Vytenis Krisciunas/Architektura/Lab1.ldf"
+prj_run Synthesis -impl impl1
+prj_src add "D:/Vytenis Krisciunas/Architektura/dasd/dasd.spf"
+prj_run Synthesis -impl impl1
+prj_src add "D:/Vytenis Krisciunas/Architektura/dsad/dsad.spf"
+#Stop recording: 9/22/2022 12:26:45
