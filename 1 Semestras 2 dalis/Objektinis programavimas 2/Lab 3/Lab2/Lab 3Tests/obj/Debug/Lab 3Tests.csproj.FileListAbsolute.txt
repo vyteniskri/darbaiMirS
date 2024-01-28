@@ -1,0 +1,17 @@
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Lab 3Tests.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Lab 3Tests.pdb
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Lab2.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Lab2.pdb
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Lab2.dll.config
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\obj\Debug\Lab 3Tests.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\obj\Debug\Lab 3Tests.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\obj\Debug\Lab 3Tests.csproj.CopyComplete
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\obj\Debug\Lab 3Tests.dll
+C:\Users\Labas\Desktop\OP2\Lab 3\Lab2\Lab 3Tests\obj\Debug\Lab 3Tests.pdb

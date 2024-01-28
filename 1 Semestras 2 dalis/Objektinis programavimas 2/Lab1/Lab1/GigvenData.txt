@@ -1,0 +1,12 @@
+-----------------------------------------------
+| Eilučių skaičius     | Stulpelių skaičius   |
+-----------------------------------------------
+|                    6 |                   15 |
+-----------------------------------------------
+| zzzzzzzzzuzuzzz      |
+| uuzuuzuuzuuuzzz      |
+| zuzuzzuzuuzuzuz      |
+| zuzuzzuzzuzuuuz      |
+| zuuuuuuuzuzzzzz      |
+| zzzzzuuuzzzzzzz      |
+------------------------

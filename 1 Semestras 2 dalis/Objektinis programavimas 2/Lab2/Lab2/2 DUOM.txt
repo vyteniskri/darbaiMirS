@@ -1,0 +1,12 @@
+2021-07-21 Pavardenis Vardenis IOp5 5
+2021-07-21 Pavardenis Vardenis LkD5 4
+2021-07-21 Bazkoks Lazkas Bpm6 4
+2021-06-21 Bazkoks Lazkas LkD5 4
+2021-06-21 Bazkoks Lazkas LkD5 7
+2022-06-21 Aetraitis Petras Klj 7
+2022-06-28 Valancius Justas IOp5 8
+
+IOp5 metal 3
+LkD5 plast 2
+Bpm6 kalp 2
+Klj milst 9.3

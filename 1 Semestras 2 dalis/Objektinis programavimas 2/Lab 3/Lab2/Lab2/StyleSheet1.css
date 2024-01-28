@@ -1,0 +1,19 @@
+﻿div {
+    background-color :mistyrose;
+}
+
+.Table{
+    background-color: yellow;
+}
+
+.BoldText{
+    font-weight: bold; 
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.TextSize{
+    font-size: 18px;
+}
