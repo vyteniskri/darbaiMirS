@@ -1,0 +1,12 @@
+﻿Lidlas
+Piliakaln 53 g.
+8643 5034 68
+Fridge;Siemens;fd6;df-5;raudona;1500;80;Pastatomas;turi šaldiklį;5;2;2 
+Fridge;Ionas;35fd9;df-5;Juodas;200;90;Pastatomas;turi šaldiklį;7;3;3
+Fridge;Pol;fd9;df-5;Rudas;1500;50;Pastatomas;neturi šaldiklį;1;1.2;1.1  
+Kettle;Pols;35fd4;df-5;raudona;1000;50;35
+Kettle;Kold;35fd9;df-5;Juodas;200;50;35
+Kettle;Nindas;35gd4;df-5;Rudas;1500;10;35
+Oven;Old;35fd4;df-5;raudona;1000;50;10
+Oven;Tiesto;35fd9;df-5;Juodas;200;50;10
+Oven;Sold;35gd4;df-5;Rudas;1500;50;10

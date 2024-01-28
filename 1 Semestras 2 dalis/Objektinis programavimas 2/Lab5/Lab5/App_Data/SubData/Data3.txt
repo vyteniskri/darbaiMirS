@@ -1,0 +1,4 @@
+﻿2006-05-03
+Jasikevicius;Pil 71;6;3;OF 1;2
+Paulavicius;Osupipo 2;4;3;OF 2;1
+Valancius;Pakalnio 5;3;7;IF 3;5

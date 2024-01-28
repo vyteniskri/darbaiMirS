@@ -1,0 +1,32 @@
+﻿div {
+    background-color: mistyrose;
+}
+
+.Table {
+    background-color: yellow;
+    
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.BoldText {
+    font-weight: bold;
+}
+
+.TextSize {
+    font-size: 18px;
+}
+
+.ShopInformation {
+    background-color: lightblue;
+}
+
+.Header {
+    background-color: white;
+}
+
+.LineColor {
+    background-color: black;
+}

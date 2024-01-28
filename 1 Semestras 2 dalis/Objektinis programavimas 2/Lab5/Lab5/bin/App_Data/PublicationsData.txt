@@ -1,0 +1,4 @@
+﻿OF 1;Zara;Rytas;10
+OF 2;Dora;Rytas;15
+IF 3;Lolas;Kauno diena;5
+LF 1;Diras;Sauksmas;1000
