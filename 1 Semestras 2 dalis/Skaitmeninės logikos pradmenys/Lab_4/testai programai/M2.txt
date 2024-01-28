@@ -1,0 +1,6 @@
+restart -f
+force -freeze sim:/cnt26/Rst 1 0, 0 {10 ps}
+force -freeze sim:/cnt26/CLK 0 0, 1 {20 ps} -r 40
+force -freeze sim:/cnt26/CNT_CMD 1 0, 0 {500 ps}
+force -freeze sim:/cnt26/CNT_CMD 1 560
+run 1400

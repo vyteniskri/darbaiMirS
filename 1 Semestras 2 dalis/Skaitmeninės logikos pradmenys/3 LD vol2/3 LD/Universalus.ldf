@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="Universalus" device="LFXP2-5E-6TN144C" default_implementation="Universalus">
+    <Options>
+        <Option name="HDL type" value="VHDL"/>
+    </Options>
+    <Implementation title="Universalus" dir="Universalus" description="Universalus" synthesis="synplify" default_strategy="Strategy1">
+        <Options def_top="SPECIALIZUOTIASRE"/>
+        <Source name="UniversalusRe.sch" type="Schematic" type_short="Schematic" excluded="TRUE">
+            <Options/>
+        </Source>
+        <Source name="SpecializuotiasRe.sch" type="Schematic" type_short="Schematic">
+            <Options top_module="SPECIALIZUOTIASRE"/>
+        </Source>
+        <Source name="UniversalusPLIS.sch" type="Schematic" type_short="Schematic" excluded="TRUE">
+            <Options/>
+        </Source>
+        <Source name="SpecializuotasPLIS.sch" type="Schematic" type_short="Schematic" excluded="TRUE">
+            <Options/>
+        </Source>
+        <Source name="A/A.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="C/C.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="d/d.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="dasd/dasd.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="ds/ds.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="dsa/dsa.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="fgd/fgd.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="fsd/fsd.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="jhk/jhk.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="sad/sad.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="sd/sd.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="Universalus.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="Universalus/Universalus.xcf" type="Programming Project File" type_short="Programming">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="Universalus1.sty"/>
+</BaliProject>

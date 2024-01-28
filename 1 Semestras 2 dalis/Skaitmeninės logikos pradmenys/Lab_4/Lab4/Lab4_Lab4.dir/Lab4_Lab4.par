@@ -1,0 +1,27 @@
+PAR: Place And Route Diamond (64-bit) 3.12.0.240.2.
+Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
+Copyright (c) 1995 AT&T Corp.   All rights reserved.
+Copyright (c) 1995-2001 Lucent Technologies Inc.  All rights reserved.
+Copyright (c) 2001 Agere Systems   All rights reserved.
+Copyright (c) 2002-2020 Lattice Semiconductor Corporation,  All rights reserved.
+Tue May 17 01:13:44 2022
+
+C:/lscc/diamond/3.12/ispfpga\bin\nt64\par -f Lab4_Lab4.p2t Lab4_Lab4_map.ncd
+Lab4_Lab4.dir Lab4_Lab4.prf -gui -msgset
+C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/promote.xml
+
+
+Preference file: Lab4_Lab4.prf.
+
+Level/       Number       Worst        Timing       Worst        Timing       Run          NCD
+Cost [ncd]   Unrouted     Slack        Score        Slack(hold)  Score(hold)  Time         Status
+----------   --------     -----        ------       -----------  -----------  ----         ------
+5_1   *      0            -            -            -            -            17           Completed
+
+* : Design saved.
+
+Total (real) run time for 1-seed: 17 secs 
+
+par done!
+
+Note: user must run 'Trace' for timing closure signoff.

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildStatus>
+    <Strategy name="Strategy1">
+        <Milestone name="Convert_HDL" build_result="2" build_time="1650913181">
+            <Task name="HDL_Conv" build_result="2" update_result="0" update_time="1650913181"/>
+        </Milestone>
+        <Milestone name="Export" build_result="0" build_time="0">
+            <Task name="IBIS" build_result="0" update_result="2" update_time="1650914251"/>
+            <Task name="TimingSimFileVlg" build_result="0" update_result="2" update_time="1650914251"/>
+            <Task name="TimingSimFileVHD" build_result="0" update_result="2" update_time="1650914251"/>
+            <Task name="Bitgen" build_result="0" update_result="2" update_time="1650914251"/>
+        </Milestone>
+        <Milestone name="Generate_HDL" build_result="2" build_time="1650913181">
+            <Task name="HDL_Gen" build_result="2" update_result="0" update_time="1650913181"/>
+        </Milestone>
+        <Milestone name="Map" build_result="0" build_time="1650914243">
+            <Task name="Map" build_result="0" update_result="2" update_time="1650914243"/>
+            <Task name="MapTrace" build_result="0" update_result="2" update_time="1650914251"/>
+            <Task name="MapVerilogSimFile" build_result="0" update_result="2" update_time="1650914251"/>
+            <Task name="MapVHDLSimFile" build_result="0" update_result="2" update_time="1650914251"/>
+        </Milestone>
+        <Milestone name="PAR" build_result="0" build_time="1650914251">
+            <Task name="PAR" build_result="0" update_result="2" update_time="1650914251"/>
+            <Task name="PARTrace" build_result="0" update_result="2" update_time="1650914251"/>
+            <Task name="IOTiming" build_result="0" update_result="2" update_time="1650914251"/>
+        </Milestone>
+        <Milestone name="Synthesis" build_result="2" build_time="1650914215">
+            <Task name="Synplify_Synthesis" build_result="2" update_result="0" update_time="1650914215"/>
+        </Milestone>
+        <Milestone name="TOOL_Report" build_result="0" build_time="0">
+            <Task name="HDLE" build_result="2" update_result="0" update_time="1650913182"/>
+            <Task name="BKM" build_result="0" update_result="2" update_time="1650913181"/>
+            <Task name="SSO" build_result="0" update_result="2" update_time="1650914243"/>
+            <Task name="PIODRC" build_result="0" update_result="2" update_time="1650914243"/>
+            <Task name="DEC" build_result="0" update_result="2" update_time="1650914243"/>
+        </Milestone>
+        <Milestone name="Translate" build_result="2" build_time="1650914243">
+            <Task name="Translate" build_result="2" update_result="0" update_time="1650914243"/>
+        </Milestone>
+        <Report name="KAZKAS.vhd" last_build_time="1650810434" last_build_size="334"/>
+        <Report name="SpecializuotasPLIS.vhd" last_build_time="1650822517" last_build_size="4425"/>
+        <Report name="SpecializuotiasRe.vhd" last_build_time="1650913181" last_build_size="3865"/>
+        <Report name="UniversalusPLIS.vhd" last_build_time="1650822516" last_build_size="4406"/>
+        <Report name="UniversalusRe.vhd" last_build_time="1650822516" last_build_size="3757"/>
+        <Report name="Universalus_Universalus.bgn" last_build_time="1650822693" last_build_size="3641"/>
+        <Report name="Universalus_Universalus.edi" last_build_time="1650914212" last_build_size="13527"/>
+        <Report name="Universalus_Universalus.jed" last_build_time="1650822693" last_build_size="1268286"/>
+        <Report name="Universalus_Universalus.ncd" last_build_time="1650822681" last_build_size="19651"/>
+        <Report name="Universalus_Universalus.ngd" last_build_time="1650914243" last_build_size="18779"/>
+        <Report name="Universalus_Universalus.twr" last_build_time="1650822684" last_build_size="41112"/>
+        <Report name="Universalus_Universalus_map.ncd" last_build_time="1650822666" last_build_size="13519"/>
+    </Strategy>
+</BuildStatus>

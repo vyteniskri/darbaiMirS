@@ -1,0 +1,5 @@
+-rem
+-distrce
+-log "Universalus_Universalus.log"
+-o "Universalus_Universalus.csv"
+-pr "Universalus_Universalus.prf"

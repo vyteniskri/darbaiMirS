@@ -1,0 +1,6 @@
+#Start recording tcl command: 4/28/2022 21:47:16
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/3 LD; Project name: Universalus
+prj_project open "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus.ldf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/SpecializuotiasRe.sch"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusPLIS.sch"
+#Stop recording: 4/28/2022 22:30:23

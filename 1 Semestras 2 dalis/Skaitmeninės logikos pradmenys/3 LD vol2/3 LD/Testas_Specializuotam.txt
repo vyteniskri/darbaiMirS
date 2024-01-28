@@ -1,0 +1,13 @@
+restart –f
+force -freeze sim:/specializuotiasre/Rst 1 0, 0 {10 ps}
+force -freeze sim:/specializuotiasre/Clk 0 0, 1 {25 ps} -r 50
+force -freeze sim:/specializuotiasre/A1 0 0, 0 100, 1 300, 0 400, 1 500
+force -freeze sim:/specializuotiasre/A0 0 0, 1 100, 0 200, 1 500
+force -freeze sim:/specializuotiasre/D6 1 0 
+force -freeze sim:/specializuotiasre/D5 0 0 
+force -freeze sim:/specializuotiasre/D4 0 0 
+force -freeze sim:/specializuotiasre/D3 0 0 
+force -freeze sim:/specializuotiasre/D2 1 0 
+force -freeze sim:/specializuotiasre/D1 0 0 
+force -freeze sim:/specializuotiasre/D0 1 0 
+run 700

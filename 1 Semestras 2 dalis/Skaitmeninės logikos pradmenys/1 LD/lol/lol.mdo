@@ -1,0 +1,15 @@
+if {![file exists "C:/Users/Labas/Desktop/Skaitmenine logika/1 LD/lol/lol.mpf"]} { 
+	project new "C:/Users/Labas/Desktop/Skaitmenine logika/1 LD/lol" lol
+	project addfile "C:/Users/Labas/Desktop/Skaitmenine logika/1 LD/impl1/Schema_1.vhd"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "C:/Users/Labas/Desktop/Skaitmenine logika/1 LD/impl1/Schema_1.vhd"
+} else {
+	project open "C:/Users/Labas/Desktop/Skaitmenine logika/1 LD/lol/lol"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_xp2  SCHEMA_1
+view wave
+add wave /*
+run 1000ns

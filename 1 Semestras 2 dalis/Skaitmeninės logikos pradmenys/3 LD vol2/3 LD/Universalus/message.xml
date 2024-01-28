@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliMessageLog>
+    <Task name="Map">
+        <Message>
+            <ID>51001030</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>Rst_c</Dynamic>
+        </Message>
+    </Task>
+    <Task name="Synplify_Synthesis">
+        <Message>
+            <ID>2011000</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd&quot;:32:10:32:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd</Navigation>
+            <Navigation>32</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>32</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd&quot;:33:10:33:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd</Navigation>
+            <Navigation>33</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>33</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT529 :&quot;c:\users\labas\desktop\skaitmenine logika\3 ld\universalus\specializuotiasre.vhd&quot;:105:3:105:5|Found inferred clock SPECIALIZUOTIASRE|Clk which controls 7 sequential elements including I21. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance.</Dynamic>
+            <Navigation>MT529</Navigation>
+            <Navigation>c:\users\labas\desktop\skaitmenine logika\3 ld\universalus\specializuotiasre.vhd</Navigation>
+            <Navigation>105</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>105</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Found inferred clock SPECIALIZUOTIASRE|Clk which controls 7 sequential elements including I21. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. </Navigation>
+        </Message>
+        <Message>
+            <ID>2019993</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT420 |Found inferred clock SPECIALIZUOTIASRE|Clk with period 5.00ns. Please declare a user-defined clock on port Clk.</Dynamic>
+            <Navigation>MT420</Navigation>
+            <Navigation>Found inferred clock SPECIALIZUOTIASRE|Clk with period 5.00ns. Please declare a user-defined clock on port Clk.</Navigation>
+        </Message>
+    </Task>
+</BaliMessageLog>

@@ -1,0 +1,15 @@
+if {![file exists "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/dfg/dfg.mpf"]} { 
+	project new "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/dfg" dfg
+	project addfile "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+} else {
+	project open "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/dfg/dfg"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_xp2  CNT10
+view wave
+add wave /*
+run 1000ns

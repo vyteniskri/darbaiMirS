@@ -1,0 +1,17 @@
+#Start recording tcl command: 2/15/2022 13:38:26
+#Project Location: C:/VK. skaitmenine/1 LD; Project name: Antr_02_08
+prj_project open "C:/VK. skaitmenine/1 LD/Antr_02_08.ldf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1/Lab1.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1/Lab1.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1/Lab1.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2D/Lab1_2D.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2d/Lab1_2d.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2d/Lab1_2d.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2d/Lab1_2d.spf"
+prj_run Translate -impl impl1
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2d/Lab1_2d.spf"
+prj_run Translate -impl impl1
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2diag/Lab1_2diag.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2d/Lab1_2d.spf"
+prj_src add "C:/VK. skaitmenine/1 LD/Lab1_2d/Lab1_2d.spf"
+#Stop recording: 2/15/2022 15:01:02

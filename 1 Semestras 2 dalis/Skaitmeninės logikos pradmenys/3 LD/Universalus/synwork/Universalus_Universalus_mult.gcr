@@ -1,0 +1,8 @@
+i Clk
+m 0 0
+u 7 7
+p {p:Clk}{t:I21.CK}
+e ckid0_0 {t:I21.CK} FD1S3DX
+c ckid0_0 {p:Clk} port Unsupported/too complex instance on clock path
+l 0 0 0 0 0
+r 0 0 0 0 0 0 0 0

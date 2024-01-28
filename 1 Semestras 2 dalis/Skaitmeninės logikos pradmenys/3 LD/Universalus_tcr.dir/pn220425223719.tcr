@@ -1,0 +1,14 @@
+#Start recording tcl command: 4/25/2022 21:36:17
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/3 LD; Project name: Universalus
+prj_project open "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus.ldf"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusRe.sch"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusPLIS.sch"
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/dasd/dasd.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusRe.sch"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/SpecializuotiasRe.sch"
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/fsd/fsd.spf"
+#Stop recording: 4/25/2022 22:37:19

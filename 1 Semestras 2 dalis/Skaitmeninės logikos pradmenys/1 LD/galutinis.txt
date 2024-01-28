@@ -1,0 +1,6 @@
+force -freeze sim:/schema_1/B 0 0, 1 {800 ps} -r 1600
+force -freeze sim:/schema_1/C 0 0, 1 {400 ps} -r 800
+force -freeze sim:/schema_1/D 0 0, 1 {200 ps} -r 400
+force -freeze sim:/schema_1/E 0 0, 1 {100 ps} -r 200
+force -freeze sim:/schema_1/F 0 0, 1 {50 ps} -r 100
+F - 100, E - 200....

@@ -1,0 +1,49 @@
+#Start recording tcl command: 5/16/2022 23:09:55
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4; Project name: Lab4
+prj_project open "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/Lab4.ldf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/dfg/dfg.spf"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+launch_synplify_prj Lab4
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/rte/rte.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/thgrteyerty/thgrteyerty.spf"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/sdfg/sdfg.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/rfasdf/rfasdf.spf"
+launch_synplify_prj Lab4
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+launch_synplify_prj Lab4
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+launch_synplify_prj Lab4
+prj_run Synthesis -impl Lab4
+prj_run Translate -impl Lab4
+prj_run Map -impl Lab4
+prj_run Export -impl Lab4
+prj_run Export -impl Lab4
+prj_run Map -impl Lab4
+prj_run Map -impl Lab4
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_run Synthesis -impl Lab4
+prj_run Translate -impl Lab4
+prj_run Map -impl Lab4
+prj_run Export -impl Lab4
+#Stop recording: 5/17/2022 01:19:11

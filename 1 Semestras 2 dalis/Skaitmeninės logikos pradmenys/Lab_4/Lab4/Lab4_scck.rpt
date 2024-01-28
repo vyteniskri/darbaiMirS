@@ -1,0 +1,49 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-39206IM
+
+Implementation : Lab4
+
+# Written on Tue May 17 00:35:51 2022
+
+##### FILES SYNTAX CHECKED ##############################################
+Constraint File(s):      (none)
+
+#Run constraint checker to find more issues with constraints.
+#########################################################################
+
+
+
+No issues found in constraint syntax.
+
+
+
+Clock Summary
+*************
+
+          Start                           Requested     Requested     Clock                            Clock                     Clock
+Level     Clock                           Frequency     Period        Type                             Group                     Load 
+--------------------------------------------------------------------------------------------------------------------------------------
+0 -       TOP_CNT|CLK_I                   1.0 MHz       1000.000      inferred                         Autoconstr_clkgroup_0     7    
+1 .         CNT10|CNT_C_derived_clock     1.0 MHz       1000.000      derived (from TOP_CNT|CLK_I)     Autoconstr_clkgroup_0     5    
+======================================================================================================================================
+
+
+Clock Load Summary
+******************
+
+                              Clock     Source                      Clock Pin              Non-clock Pin     Non-clock Pin
+Clock                         Load      Pin                         Seq Example            Seq Example       Comb Example 
+--------------------------------------------------------------------------------------------------------------------------
+TOP_CNT|CLK_I                 7         CLK_I(port)                 CNT_CO.C               -                 -            
+CNT10|CNT_C_derived_clock     5         CNT_1.CNT_C.Q[0](dffse)     CNT_2.CNT_A[4:0].C     -                 -            
+==========================================================================================================================

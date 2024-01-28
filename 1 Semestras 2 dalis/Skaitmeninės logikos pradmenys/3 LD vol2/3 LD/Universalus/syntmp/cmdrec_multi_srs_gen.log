@@ -1,0 +1,7 @@
+C:\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe  -link  -top  SPECIALIZUOTIASRE  -multisrs  "C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\synwork\Universalus_Universalus_comp.srs"  -osyn  "C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\synwork\Universalus_Universalus_mult.srs"  -log  "C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\synlog\Universalus_Universalus_multi_srs_gen.srr" 
+relcom:..\..\..\..\..\..\..\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe -link -top SPECIALIZUOTIASRE -multisrs "C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\synwork\Universalus_Universalus_comp.srs" -osyn "C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\synwork\Universalus_Universalus_mult.srs" -log "C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\synlog\Universalus_Universalus_multi_srs_gen.srr"
+rc:0 success:1 runtime:0
+file:..\synwork\Universalus_Universalus_comp.srs|io:i|time:1651528761|size:3561|exec:0|csum:F469A9E1AB13DECA2651E902FD4F7DCF
+file:..\synwork\Universalus_Universalus_mult.srs|io:o|time:1651528763|size:3338|exec:0|csum:
+file:..\synlog\Universalus_Universalus_multi_srs_gen.srr|io:o|time:1651528763|size:1175|exec:0|csum:
+file:..\..\..\..\..\..\..\lscc\diamond\3.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1603959522|size:8875008|exec:1|csum:43373AFF0ED6BCEB26CB4B4947B972DD

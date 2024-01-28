@@ -1,0 +1,21 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Sun Apr 24 20:51:33 2022 *
+NOTE DESIGN NAME: UNIVERSALUSPLIS *
+NOTE DEVICE NAME: LFXP2-5E-6TQFP144 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS Q6 : 45 : out *
+NOTE PINS A0 : 56 : in *
+NOTE PINS Q2 : 39 : out *
+NOTE PINS Q1 : 38 : out *
+NOTE PINS Q0 : 37 : out *
+NOTE PINS Q3 : 40 : out *
+NOTE PINS Q4 : 43 : out *
+NOTE PINS Q5 : 44 : out *
+NOTE PINS DL : 53 : in *
+NOTE PINS DR : 54 : in *
+NOTE PINS Clk : 52 : in *
+NOTE PINS Rst : 50 : in *
+NOTE PINS A1 : 55 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: off *

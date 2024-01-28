@@ -1,0 +1,21 @@
+if {![file exists "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/bcv/bcv.mpf"]} { 
+	project new "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/bcv" bcv
+	project addfile "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+	project addfile "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+	project addfile "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+	project addfile "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+	vcom -work work "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+	vcom -work work "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+	vcom -work work "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+} else {
+	project open "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/bcv/bcv"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_xp2  TOP_CNT
+view wave
+add wave /*
+run 1000ns

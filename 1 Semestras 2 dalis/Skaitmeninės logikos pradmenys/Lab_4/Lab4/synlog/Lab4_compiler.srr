@@ -1,0 +1,119 @@
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-39206IM
+
+Implementation : Lab4
+Synopsys HDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-39206IM
+
+Implementation : Lab4
+Synopsys VHDL Compiler, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+@N:"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\JM1.vhd":5:7:5:13|Top entity is set to TOP_CNT.
+
+File Dependency file is up to date.  It will not be rewritten.
+
+VHDL syntax check successful!
+
+Compiler output is up to date.  No re-compile necessary
+
+@N: CD630 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\JM1.vhd":5:7:5:13|Synthesizing work.top_cnt.struct.
+@W: CD638 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\JM1.vhd":16:7:16:7|Signal c is undriven. Either assign the signal a value or remove the signal declaration.
+@N: CD630 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M2.vhd":5:7:5:11|Synthesizing work.cnt26.rtl.
+Post processing for work.cnt26.rtl
+Running optimization stage 1 on CNT26 .......
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M2.vhd":20:2:20:3|Feedback mux created for signal CNT_A[4:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M2.vhd":20:2:20:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@N: CD630 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":5:7:5:11|Synthesizing work.cnt10.rtl.
+Post processing for work.cnt10.rtl
+Running optimization stage 1 on CNT10 .......
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":20:2:20:3|Feedback mux created for signal CNT_A[3:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":20:2:20:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+Post processing for work.top_cnt.struct
+Running optimization stage 1 on TOP_CNT .......
+Running optimization stage 2 on CNT10 .......
+Running optimization stage 2 on CNT26 .......
+Running optimization stage 2 on TOP_CNT .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\Lab4\synwork\layer0.rt.csv
+
+
+At c_vhdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 88MB peak: 89MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Tue May 17 01:01:51 2022
+
+###########################################################]
+###########################################################[
+
+Copyright (C) 1994-2020 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: Q-2020.03L-SP1
+Install: C:\lscc\diamond\3.12\synpbase
+OS: Windows 6.2
+
+Hostname: DESKTOP-39206IM
+
+Implementation : Lab4
+Synopsys Synopsys Netlist Linker, Version comp202003synp2, Build 182R, Built Oct 29 2020 10:49:53, @
+
+@N|Running in 64-bit mode
+
+Linker output is up to date. No re-linking necessary
+
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 86MB peak: 86MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Tue May 17 01:01:51 2022
+
+###########################################################]
+
+For a summary of runtime and memory usage for all design units, please see file:
+==========================================================
+@L: C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\Lab4\synwork\Lab4_comp.rt.csv
+
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 23MB peak: 23MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Tue May 17 01:01:51 2022
+
+###########################################################]

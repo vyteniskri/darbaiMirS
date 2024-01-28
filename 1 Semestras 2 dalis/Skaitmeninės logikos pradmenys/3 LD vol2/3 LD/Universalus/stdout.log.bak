@@ -1,0 +1,24 @@
+Running in Lattice mode
+
+Starting:    C:\lscc\diamond\3.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\diamond\3.12\synpbase
+Hostname:    DESKTOP-39206IM
+Date:        Tue May  3 00:58:58 2022
+Version:     Q-2020.03L-SP1
+
+Arguments:   -product synplify_pro -batch Universalus_Universalus_synplify.tcl
+ProductType: synplify_pro
+
+
+
+
+Unable to write project file: "C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\run_options.txt"
+Error: At line 64 while processing "Universalus_Universalus_synplify.tcl"
+2
+TCL script complete: "Universalus_Universalus_synplify.tcl"
+TCL script had errors: "Universalus_Universalus_synplify.tcl"
+exit status=9
+exit status=9
+Save changes for project:
+C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\proj_1.prj
+batch mode default:no

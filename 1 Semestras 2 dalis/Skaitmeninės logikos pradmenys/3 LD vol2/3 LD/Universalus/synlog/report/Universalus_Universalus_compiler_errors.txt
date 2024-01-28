@@ -1,0 +1,2 @@
+@E: CD329 :"C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd":84:20:84:22|Illegal connection of instance output z to entity input/constant n_1
+

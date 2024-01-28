@@ -1,0 +1,54 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/VK. skaitmenine/1 LD/AllGraphs
+Eschema_1
+Z1 w1645474072
+Z2 DPx3 xp2 10 components 0 22 zeL]n]k`h]4OzW>IL1K2Y2
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8C:/VK. skaitmenine/1 LD/impl1/Schema_1.vhd
+Z6 FC:/VK. skaitmenine/1 LD/impl1/Schema_1.vhd
+l0
+L8 1
+VbTTSEK5Q;R_J8Qg5ZO_W=1
+!s100 m]Q`Xz@FL@F?0f8?]H:7T1
+Z7 OT;C;2020.3;71
+32
+Z8 !s110 1645530014
+!i10b 1
+Z9 !s108 1645530014.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/VK. skaitmenine/1 LD/impl1/Schema_1.vhd|
+!s107 C:/VK. skaitmenine/1 LD/impl1/Schema_1.vhd|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1 CvgOpt 0
+Aschematic
+R2
+R3
+R4
+DEx4 work 8 schema_1 0 22 bTTSEK5Q;R_J8Qg5ZO_W=1
+!i122 0
+l198
+L21 336
+VG26O4YDSoQgmM^O8i7fkg2
+!s100 PRQBY5iXg>NSJTj7oMSYM0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+Z13 !s107 C:/VK. skaitmenine/1 LD/impl1/Schema_1.vhd|
+!i113 1
+R11
+R12

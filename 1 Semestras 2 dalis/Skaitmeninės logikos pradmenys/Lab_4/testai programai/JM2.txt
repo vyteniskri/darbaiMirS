@@ -1,0 +1,5 @@
+force -freeze sim:/top_cnt/CLK_I 1 0, 0 {10 ps} -r 20
+force -freeze sim:/top_cnt/ENBL_I 1 0, 0 {500 ps}
+force -freeze sim:/top_cnt/ENBL_I 1 560
+force -freeze sim:/top_cnt/RST_I 1 0, 0 {5 ps}
+run 100000

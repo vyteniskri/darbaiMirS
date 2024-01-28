@@ -1,0 +1,1 @@
+project -fileorder "C:/lscc/diamond/3.12/cae_library/synthesis/vhdl/xp2.vhd" "C:/Users/Labas/Desktop/Skaitmenine\ logika/Lab_4/M1.vhd" 

@@ -1,0 +1,5 @@
+@W: CD638 :"C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd":25:10:25:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd":26:10:26:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CL168 :"C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd":189:3:189:5|Removing instance I12 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+@W: CL168 :"C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd":183:3:183:4|Removing instance I9 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+

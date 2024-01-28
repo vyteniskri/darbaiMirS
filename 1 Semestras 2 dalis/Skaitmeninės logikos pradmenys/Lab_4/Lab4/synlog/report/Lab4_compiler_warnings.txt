@@ -1,0 +1,6 @@
+@W: CD638 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\JM1.vhd":16:7:16:7|Signal c is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M2.vhd":20:2:20:3|Feedback mux created for signal CNT_A[4:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M2.vhd":20:2:20:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":20:2:20:3|Feedback mux created for signal CNT_A[3:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":20:2:20:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+

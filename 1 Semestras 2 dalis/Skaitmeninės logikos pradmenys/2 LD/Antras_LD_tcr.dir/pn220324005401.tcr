@@ -1,0 +1,9 @@
+#Start recording tcl command: 3/23/2022 20:23:56
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/2 LD; Project name: Antras_LD
+prj_project open "C:/Users/Labas/Desktop/Skaitmenine logika/2 LD/Antras_LD.ldf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/2 LD/gdf/gdf.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/2 LD/uj/uj.spf"
+prj_run Synthesis -impl impl1
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/2 LD/ghj/ghj.spf"
+#Stop recording: 3/24/2022 00:54:01

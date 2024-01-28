@@ -1,0 +1,13 @@
+#Start recording tcl command: 3/28/2022 12:13:42
+#Project Location: C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD; Project name: Antras_LD
+prj_project open "C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/Antras_LD.ldf"
+prj_run Synthesis -impl impl1
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/gdf/gdf.spf"
+prj_run Synthesis -impl impl1
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/dasd/dasd.spf"
+prj_run Synthesis -impl impl1
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/gdfg/gdfg.spf"
+#Stop recording: 3/28/2022 12:41:20

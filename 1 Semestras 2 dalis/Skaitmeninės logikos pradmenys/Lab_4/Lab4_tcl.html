@@ -1,0 +1,164 @@
+<HTML>
+<HEAD><TITLE>Lattice TCL Log</TITLE>
+<STYLE TYPE="text/css">
+<!--
+ body,pre{    font-family:'Courier New', monospace;    color: #000000;    font-size:88%;    background-color: #ffffff;}h1 {    font-weight: bold;    margin-top: 24px;    margin-bottom: 10px;    border-bottom: 3px solid #000;    font-size: 1em;}h2 {    font-weight: bold;    margin-top: 18px;    margin-bottom: 5px;    font-size: 0.90em;}h3 {    font-weight: bold;    margin-top: 12px;    margin-bottom: 5px;    font-size: 0.80em;}p {    font-size:78%;}P.Table {    margin-top: 4px;    margin-bottom: 4px;    margin-right: 4px;    margin-left: 4px;}table{    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    border-collapse: collapse;}th {    font-weight:bold;    padding: 4px;    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    vertical-align:top;    text-align:left;    font-size:78%;}td {    padding: 4px;    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    vertical-align:top;    font-size:78%;}a {    color:#013C9A;    text-decoration:none;}a:visited {    color:#013C9A;}a:hover, a:active {    text-decoration:underline;    color:#5BAFD4;}.pass{background-color: #00ff00;}.fail{background-color: #ff0000;}.comment{    font-size: 90%;    font-style: italic;}
+-->
+</STYLE>
+</HEAD>
+<PRE><A name="pn220515024044"></A><B><U><big>pn220515024044</big></U></B>
+#Start recording tcl command: 5/14/2022 22:05:54
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika; Project name: Lab4
+prj_project new -name "Lab4" -impl "Lab4" -dev LFXP2-5E-6TN144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/Labas/Downloads/top_cntr.vhd" "C:/Users/Labas/Downloads/cntr167.vhd" "C:/Users/Labas/Downloads/cntr23 (2).vhd"
+prj_src remove "C:/Users/Labas/Downloads/cntr23 (2).vhd"
+prj_src add "C:/Users/Labas/Downloads/cntr23 (2).vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/M1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/M2.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/M1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/M1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/hjtgy/hjtgy.spf"
+prj_src exclude "C:/Users/Labas/Downloads/top_cntr.vhd"
+prj_src exclude "C:/Users/Labas/Downloads/cntr167.vhd"
+prj_src exclude "C:/Users/Labas/Downloads/cntr23 (2).vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/M2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/fdg/fdg.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/wdf/wdf.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/M1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/M1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/tregt/tregt.spf"
+#Stop recording: 5/15/2022 02:40:44
+
+
+
+<A name="pn220515190608"></A><B><U><big>pn220515190608</big></U></B>
+#Start recording tcl command: 5/15/2022 14:20:39
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4; Project name: Lab4
+prj_project open "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/Lab4.ldf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/gdfg/gdfg.spf"
+prj_src remove "C:/Users/Labas/Desktop/Downloads/cntr23 (2).vhd"
+prj_src remove "C:/Users/Labas/Desktop/Downloads/cntr167.vhd"
+prj_src remove "C:/Users/Labas/Desktop/Downloads/top_cntr.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/cntr23 (2).vhd" "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/cntr167.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/top_cntr.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/top_cntr.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/cntr167.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/cntr23 (2).vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/uoyit/uoyit.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/dfs/dfs.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/dfgs/dfgs.spf"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/gdfdfg/gdfdfg.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/gvdfg/gvdfg.spf"
+#Stop recording: 5/15/2022 19:06:08
+
+
+
+<A name="pn220516002543"></A><B><U><big>pn220516002543</big></U></B>
+#Start recording tcl command: 5/15/2022 22:38:23
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4; Project name: Lab4
+prj_project open "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/Lab4.ldf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/fgd/fgd.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/bcv/bcv.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/yut/yut.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/fdgh/fdgh.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/hgtdf/hgtdf.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/fgdh/fgdh.spf"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/ghf/ghf.spf"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/ghdf/ghdf.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/sdfsdf/sdfsdf.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/gdfgghdfg/gdfgghdfg.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/tyd/tyd.spf"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM1.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/gert/gert.spf"
+#Stop recording: 5/16/2022 00:25:43
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</PRE></FONT>
+</BODY>
+</HTML>

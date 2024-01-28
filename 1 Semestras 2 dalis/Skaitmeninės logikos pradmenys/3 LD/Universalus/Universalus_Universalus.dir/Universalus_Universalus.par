@@ -1,0 +1,28 @@
+PAR: Place And Route Diamond (64-bit) 3.12.0.240.2.
+Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
+Copyright (c) 1995 AT&T Corp.   All rights reserved.
+Copyright (c) 1995-2001 Lucent Technologies Inc.  All rights reserved.
+Copyright (c) 2001 Agere Systems   All rights reserved.
+Copyright (c) 2002-2020 Lattice Semiconductor Corporation,  All rights reserved.
+Sun Apr 24 20:51:14 2022
+
+C:/lscc/diamond/3.12/ispfpga\bin\nt64\par -f Universalus_Universalus.p2t
+Universalus_Universalus_map.ncd Universalus_Universalus.dir
+Universalus_Universalus.prf -gui -msgset
+C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/promote.xml
+
+
+Preference file: Universalus_Universalus.prf.
+
+Level/       Number       Worst        Timing       Worst        Timing       Run          NCD
+Cost [ncd]   Unrouted     Slack        Score        Slack(hold)  Score(hold)  Time         Status
+----------   --------     -----        ------       -----------  -----------  ----         ------
+5_1   *      0            -            -            -            -            07           Completed
+
+* : Design saved.
+
+Total (real) run time for 1-seed: 7 secs 
+
+par done!
+
+Note: user must run 'Trace' for timing closure signoff.

@@ -1,0 +1,11 @@
+@N: CD630 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":5:7:5:11|Synthesizing work.cnt10.rtl.
+Post processing for work.cnt10.rtl
+Running optimization stage 1 on CNT10 .......
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":20:2:20:3|Feedback mux created for signal CNT_A[3:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\M1.vhd":20:2:20:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+Running optimization stage 2 on CNT10 .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\Labas\Desktop\Skaitmenine logika\Lab_4\Lab4\synwork\layer0.rt.csv
+

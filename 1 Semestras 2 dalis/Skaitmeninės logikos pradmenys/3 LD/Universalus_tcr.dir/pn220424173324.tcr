@@ -1,0 +1,52 @@
+#Start recording tcl command: 4/24/2022 16:07:36
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/3 LD; Project name: Universalus
+prj_project open "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus.ldf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusPLIS.sch"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/SpecializuotasPLIS.sch"
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_run PAR -impl Universalus
+prj_run PAR -impl Universalus
+prj_run PAR -impl Universalus
+prj_run PAR -impl Universalus
+prj_run Export -impl Universalus -task Bitgen
+prj_run PAR -impl Universalus
+pgr_project save "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+prj_src add -exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+pgr_program run
+pgr_project save "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+prj_run Synthesis -impl Universalus
+pgr_project close
+prj_run Synthesis -impl Universalus
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/KAZKAS.sch"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/KAZKAS.sch"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/KAZKAS.sch"
+prj_src remove "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/KAZKAS.sch"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusRe.sch"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/SpecializuotiasRe.sch"
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/SpecializuotasPLIS.sch"
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_run Map -impl Universalus
+prj_run PAR -impl Universalus
+prj_run Export -impl Universalus -task Bitgen
+pgr_project open "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+pgr_program run
+prj_src exclude "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusPLIS.sch"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/SpecializuotasPLIS.sch"
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_run Map -impl Universalus
+prj_run PAR -impl Universalus
+pgr_project save "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+pgr_project close
+pgr_project open "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+pgr_project save "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/Universalus.xcf"
+pgr_project close
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusPLIS.sch"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/SpecializuotiasRe.sch"
+prj_src enable "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusRe.sch"
+#Stop recording: 4/24/2022 17:33:24

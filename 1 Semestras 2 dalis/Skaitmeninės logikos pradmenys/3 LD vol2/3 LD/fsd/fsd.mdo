@@ -1,0 +1,15 @@
+if {![file exists "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/fsd/fsd.mpf"]} { 
+	project new "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/fsd" fsd
+	project addfile "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/SpecializuotiasRe.vhd"
+	vlib  work
+	vdel -lib work -all 
+	vlib work
+	vcom -work work "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/SpecializuotiasRe.vhd"
+} else {
+	project open "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/fsd/fsd"
+	project compileoutofdate
+}
+vsim -L work -L pmi_work -L ovi_xp2  SPECIALIZUOTIASRE
+view wave
+add wave /*
+run 1000ns

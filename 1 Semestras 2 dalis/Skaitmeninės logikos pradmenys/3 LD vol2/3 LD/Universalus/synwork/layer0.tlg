@@ -1,0 +1,17 @@
+@N: CD630 :"C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd":8:7:8:23|Synthesizing work.specializuotiasre.schematic.
+@N: CD630 :"C:\lscc\diamond\3.12\cae_library\synthesis\vhdl\xp2.vhd":566:10:566:16|Synthesizing work.fd1s3dx.syn_black_box.
+Post processing for work.fd1s3dx.syn_black_box
+@W: CD638 :"C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd":32:10:32:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\SpecializuotiasRe.vhd":33:10:33:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.
+@N: CD630 :"C:\lscc\diamond\3.12\cae_library\synthesis\vhdl\xp2.vhd":1033:10:1033:14|Synthesizing work.mux41.syn_black_box.
+Post processing for work.mux41.syn_black_box
+@N: CD630 :"C:\lscc\diamond\3.12\cae_library\synthesis\vhdl\xp2.vhd":1530:10:1530:12|Synthesizing work.vhi.syn_black_box.
+Post processing for work.vhi.syn_black_box
+Post processing for work.specializuotiasre.schematic
+Running optimization stage 1 on SPECIALIZUOTIASRE .......
+Running optimization stage 2 on SPECIALIZUOTIASRE .......
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: C:\Users\Labas\Desktop\Skaitmenine logika\3 LD\Universalus\synwork\layer0.rt.csv
+

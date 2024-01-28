@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Labas/Desktop/Skaitmenine logika/3 LD/sad
+Especializuotiasre
+Z1 w1650658400
+Z2 DPx3 xp2 10 components 0 22 zeL]n]k`h]4OzW>IL1K2Y2
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z5 8C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/SpecializuotiasRe.vhd
+Z6 FC:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/SpecializuotiasRe.vhd
+l0
+L8 1
+V0UJ]ORG1XCB>1le_jiSVd1
+!s100 h4a<[B_LFGf4^;CVYHnVz0
+Z7 OT;C;2020.3;71
+32
+Z8 !s110 1650658454
+!i10b 1
+Z9 !s108 1650658454.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/SpecializuotiasRe.vhd|
+!s107 C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/SpecializuotiasRe.vhd|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1 CvgOpt 0
+Aschematic
+R2
+R3
+R4
+DEx4 work 17 specializuotiasre 0 22 0UJ]ORG1XCB>1le_jiSVd1
+!i122 1
+l73
+L30 92
+VHP_IOjKWzA[7anAm6XcJl3
+!s100 ozkClmDNT0;U7k^2@^U`C1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+Z13 !s107 C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/SpecializuotiasRe.vhd|
+!i113 1
+R11
+R12
+Euniversalusre
+R1
+R2
+R3
+R4
+!i122 0
+R0
+Z14 8C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/UniversalusRe.vhd
+Z15 FC:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/UniversalusRe.vhd
+l0
+L8 1
+VY>PleHh]4dTQ6:IgmI3bz1
+!s100 NV@eQ;I:gG5dL9MUVI]cB3
+R7
+32
+R8
+!i10b 1
+Z16 !s108 1650658453.000000
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/UniversalusRe.vhd|
+Z18 !s107 C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/Universalus/UniversalusRe.vhd|
+!i113 1
+R11
+R12
+Aschematic
+R2
+R3
+R4
+DEx4 work 13 universalusre 0 22 Y>PleHh]4dTQ6:IgmI3bz1
+!i122 0
+l69
+L32 84
+VA;W;NhGIOmSJID^_2@zMJ1
+!s100 GY`3h1B=]I<X54DzIA3jU2
+R7
+32
+R8
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
+R12

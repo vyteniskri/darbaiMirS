@@ -1,0 +1,22 @@
+#Start recording tcl command: 4/21/2022 18:48:14
+#Project Location: C:/Users/Labas/Desktop/Skaitmenine logika/3 LD; Project name: Universalus
+prj_project new -name "Universalus" -impl "Universalus" -dev LFXP2-5E-6TN144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/UniversalusRe.sch"
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/A/A.spf"
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/A/A.spf"
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/C/C.spf"
+prj_run Synthesis -impl Universalus
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_run Synthesis -impl Universalus
+prj_run Synthesis -impl Universalus
+prj_run Synthesis -impl Universalus
+prj_run Synthesis -impl Universalus
+prj_run Translate -impl Universalus
+prj_src add "C:/Users/Labas/Desktop/Skaitmenine logika/3 LD/A/A.spf"
+#Stop recording: 4/22/2022 00:12:19

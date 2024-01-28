@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliMessageLog>
+    <Task name="Synplify_Synthesis">
+        <Message>
+            <ID>2011000</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd&quot;:25:10:25:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd</Navigation>
+            <Navigation>25</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>25</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd&quot;:26:10:26:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd</Navigation>
+            <Navigation>26</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>26</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CL168 :&quot;C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd&quot;:189:3:189:5|Removing instance I12 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.</Dynamic>
+            <Navigation>CL168</Navigation>
+            <Navigation>C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd</Navigation>
+            <Navigation>189</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>189</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Removing instance I12 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CL168 :&quot;C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd&quot;:183:3:183:4|Removing instance I9 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.</Dynamic>
+            <Navigation>CL168</Navigation>
+            <Navigation>C:\Users\Labas\OneDrive - Kaunas University of Technology\2 pusmetis\Skaitmenine logika\2 LD\impl1\AntrLD.vhd</Navigation>
+            <Navigation>183</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>183</Navigation>
+            <Navigation>4</Navigation>
+            <Navigation>Removing instance I9 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd&quot;:181:3:181:4|Blackbox ND2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd</Navigation>
+            <Navigation>181</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>181</Navigation>
+            <Navigation>4</Navigation>
+            <Navigation>Blackbox ND2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd&quot;:167:3:167:4|Blackbox ND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd</Navigation>
+            <Navigation>167</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>167</Navigation>
+            <Navigation>4</Navigation>
+            <Navigation>Blackbox ND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd&quot;:126:3:126:5|Blackbox ND4 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd</Navigation>
+            <Navigation>126</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>126</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox ND4 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd&quot;:122:3:122:5|Blackbox XNOR2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\labas\onedrive - kaunas university of technology\2 pusmetis\skaitmenine logika\2 ld\impl1\antrld.vhd</Navigation>
+            <Navigation>122</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>122</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox XNOR2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Navigation>
+        </Message>
+    </Task>
+</BaliMessageLog>

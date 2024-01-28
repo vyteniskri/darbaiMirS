@@ -1,0 +1,1 @@
+@W: MT529 :"c:\users\labas\desktop\skaitmenine logika\3 ld\universalus\specializuotiasre.vhd":105:3:105:5|Found inferred clock SPECIALIZUOTIASRE|Clk which controls 7 sequential elements including I21. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 

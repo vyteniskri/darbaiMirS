@@ -1,0 +1,163 @@
+# Reading pref.tcl
+# do {C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/rfasdf/rfasdf.mdo}
+# Loading project rfasdf
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 00:08:48 on May 17,2022
+# vcom -reportprogress 300 -work work C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CNT54
+# -- Compiling architecture rtl of CNT54
+# End time: 00:08:48 on May 17,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 00:08:48 on May 17,2022
+# vcom -reportprogress 300 -work work C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CNT26
+# -- Compiling architecture rtl of CNT26
+# End time: 00:08:48 on May 17,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 00:08:48 on May 17,2022
+# vcom -reportprogress 300 -work work C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/M1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CNT10
+# -- Compiling architecture rtl of CNT10
+# End time: 00:08:49 on May 17,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Lattice FPGA Edition vcom 2020.3 Compiler 2020.10 Oct 14 2020
+# Start time: 00:08:49 on May 17,2022
+# vcom -reportprogress 300 -work work C:/Users/Labas/Desktop/Skaitmenine logika/Lab_4/JM2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity TOP_CNT
+# -- Compiling architecture struct of TOP_CNT
+# End time: 00:08:49 on May 17,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L work -L pmi_work -L ovi_xp2 TOP_CNT 
+# Start time: 00:08:49 on May 17,2022
+# //  ModelSim - Lattice FPGA Edition 2020.3 Oct 14 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim - Lattice FPGA Edition and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.top_cnt(struct)
+# Loading work.cnt10(rtl)
+# Loading work.cnt26(rtl)
+# Loading work.cnt54(rtl)
+# .main_pane.wave.interior.cs.body.pw.wf
+force -freeze sim:/top_cnt/CLK_I 1 0, 0 {10 ps} -r 20
+force -freeze sim:/top_cnt/ENBL_I 1 0, 0 {500 ps}
+force -freeze sim:/top_cnt/ENBL_I 1 560
+force -freeze sim:/top_cnt/RST_I 1 0, 0 {5 ps}
+run 100000
+# ** Warning: NUMERIC_STD."<": metavalue detected, returning FALSE
+#    Time: 1 us  Iteration: 0  Instance: /top_cnt/CNT_1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 00:31:17 on May 17,2022, Elapsed time: 0:22:28
+# Errors: 0, Warnings: 8

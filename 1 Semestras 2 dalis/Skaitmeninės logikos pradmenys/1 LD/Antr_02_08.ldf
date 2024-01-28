@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="Antr_02_08" device="LFXP2-5E-6TN144C" default_implementation="impl1">
+    <Options>
+        <Option name="HDL type" value="VHDL"/>
+    </Options>
+    <Implementation title="impl1" dir="impl1" description="impl1" synthesis="synplify" default_strategy="Strategy1">
+        <Options def_top="SCHEMA_1"/>
+        <Source name="Schema_1.sch" type="Schematic" type_short="Schematic">
+            <Options top_module="SCHEMA_1"/>
+        </Source>
+        <Source name="AllGraphs/AllGraphs.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="Antr_02_08.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="asd/asd.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="Bandymas/Bandymas.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="l/l.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="LAB1/LAB1.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="Lab1_2D/Lab1_2D.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="Lab1_2diag/Lab1_2diag.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="lol/lol.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="Antr_02_081.sty"/>
+</BaliProject>

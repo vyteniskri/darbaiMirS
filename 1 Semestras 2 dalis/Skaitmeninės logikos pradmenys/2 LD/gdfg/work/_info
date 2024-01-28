@@ -1,0 +1,54 @@
+m255
+K4
+z2
+!s11e vcom 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/gdfg
+Eantrld
+Z1 w1648460292
+Z2 DPx3 xp2 10 components 0 22 zeL]n]k`h]4OzW>IL1K2Y2
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/impl1/AntrLD.vhd
+Z6 FC:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/impl1/AntrLD.vhd
+l0
+L8 1
+V^4B_>M];2DHB?NA0abzYD1
+!s100 `nJY91CnlfF_f8c_]zbXb1
+Z7 OT;C;2020.3;71
+32
+Z8 !s110 1648460352
+!i10b 1
+Z9 !s108 1648460352.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/impl1/AntrLD.vhd|
+!s107 C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/impl1/AntrLD.vhd|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1 CvgOpt 0
+Aschematic
+R2
+R3
+R4
+DEx4 work 6 antrld 0 22 ^4B_>M];2DHB?NA0abzYD1
+!i122 0
+l114
+L23 172
+V_T;N20?W7W0]o[<AacPGS3
+!s100 ;K9jhRn?4GDY8oDDznEcM3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+Z13 !s107 C:/Users/Labas/OneDrive - Kaunas University of Technology/2 pusmetis/Skaitmenine logika/2 LD/impl1/AntrLD.vhd|
+!i113 1
+R11
+R12

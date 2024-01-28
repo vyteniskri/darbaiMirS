@@ -1,0 +1,15 @@
+restart –f
+force -freeze sim:/universalusre/Rst 1 0, 0 {50 ps}
+force -freeze sim:/universalusre/Clk 0 0, 1 {25 ps} -r 50
+force -freeze sim:/universalusre/A1 1 0, 0 100, 1 300
+force -freeze sim:/universalusre/A0 1 0, 0 100, 1 200, 0 400
+force -freeze sim:/universalusre/DL 0 0, 1 200, 0 250
+force -freeze sim:/universalusre/DR 0 0, 1 500
+force -freeze sim:/universalusre/D6 1 0 
+force -freeze sim:/universalusre/D5 0 0 
+force -freeze sim:/universalusre/D4 1 0 
+force -freeze sim:/universalusre/D3 0 0 
+force -freeze sim:/universalusre/D2 1 0 
+force -freeze sim:/universalusre/D1 0 0 
+force -freeze sim:/universalusre/D0 1 0 
+run 700
