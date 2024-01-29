@@ -1,0 +1,17 @@
+﻿Žodžiai, kurie kartojasi tik po vieną kartą ir jų nėra antrame faile .txt:
+Tokių žodžių nėra.
+
+Žodžiai, kurie yra abejuose failuose surikiuoti pasikartojimo skaičių mažėjimo tvarka, o kai pasikartojimų skaičius sutampa – pagal abėcėlę:
+25
+Anksčiau
+apie
+buvęs
+dirbęs
+metus
+neteistas
+taksi
+vairuotoju
+Vi
+Žodžių skaičius:
+10
+

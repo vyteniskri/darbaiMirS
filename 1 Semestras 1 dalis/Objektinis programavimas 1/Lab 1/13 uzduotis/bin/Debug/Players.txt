@@ -1,0 +1,2 @@
+﻿Jonas;Valančiūnas;2002-07-28;180;14;Žalgiris;pakviestas;kapitonas
+Marius;Grigonis;2002-08-28;179;24;Rytas;pakviestas;žaidėjas

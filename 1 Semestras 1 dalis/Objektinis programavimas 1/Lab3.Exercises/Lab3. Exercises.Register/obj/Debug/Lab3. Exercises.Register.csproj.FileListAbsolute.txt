@@ -1,0 +1,36 @@
+D:\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+D:\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+D:\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+D:\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csprojAssemblyReference.cache
+D:\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csproj.CoreCompileInputs.cache
+D:\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+D:\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
+D:\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Dogs.txt
+D:\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Vaccinations.txt
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Dogs.txt
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Vaccinations.txt
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Dogs.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Vaccinations.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csprojAssemblyReference.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Dogs.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Vaccinations.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csprojAssemblyReference.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb

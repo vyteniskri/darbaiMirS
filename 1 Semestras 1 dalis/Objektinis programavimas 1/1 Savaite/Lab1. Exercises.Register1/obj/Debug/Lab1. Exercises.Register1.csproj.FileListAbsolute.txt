@@ -1,0 +1,16 @@
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\bin\Debug\Lab1.Exercises.Register1.exe.config
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\bin\Debug\Lab1.Exercises.Register1.exe
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\bin\Debug\Lab1.Exercises.Register1.pdb
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\obj\Debug\Lab1. Exercises.Register1.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\obj\Debug\Lab1. Exercises.Register1.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\obj\Debug\Lab1.Exercises.Register1.exe
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\obj\Debug\Lab1.Exercises.Register1.pdb
+C:\Users\Labas\Desktop\visual studio\Lab1. Exercises.Register1\bin\Debug\Dogs.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\bin\Debug\Dogs.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\bin\Debug\Lab1.Exercises.Register1.exe.config
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\bin\Debug\Lab1.Exercises.Register1.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\bin\Debug\Lab1.Exercises.Register1.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\obj\Debug\Lab1. Exercises.Register1.csprojAssemblyReference.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\obj\Debug\Lab1. Exercises.Register1.csproj.CoreCompileInputs.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\obj\Debug\Lab1.Exercises.Register1.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Lab1. Exercises.Register1\obj\Debug\Lab1.Exercises.Register1.pdb

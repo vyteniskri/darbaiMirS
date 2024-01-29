@@ -1,0 +1,8 @@
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\13 uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\13 uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\Players.txt

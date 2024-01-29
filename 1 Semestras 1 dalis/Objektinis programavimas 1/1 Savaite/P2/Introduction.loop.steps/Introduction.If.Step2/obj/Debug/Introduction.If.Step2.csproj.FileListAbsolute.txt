@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step2\bin\Debug\Introduction.If.Step2.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step2\obj\Debug\Introduction.If.Step2.pdb

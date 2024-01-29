@@ -1,0 +1,3 @@
+﻿2020;2020-07-28;2020-11-12;Jonas;Valanciunas;2002-07-28;210;14;Žalgiris;pakviestas;kapitonas
+2020;2020-07-28;2020-11-12;Marius;Grigonis;2002-08-28;210;24;Žalgiris;pakviestas;žaidėjas
+2021;2021-05-28;2021-11-12;Mantas;Kalnietis;2000-08-28;180;30;Žalgiris;pakviestas;žaidėjas

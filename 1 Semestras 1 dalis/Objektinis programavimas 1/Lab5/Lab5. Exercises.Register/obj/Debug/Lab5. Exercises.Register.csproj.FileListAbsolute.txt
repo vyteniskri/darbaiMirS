@@ -1,0 +1,18 @@
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5. Exercises.Register.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5. Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe.config
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\bin\Debug\Lab5.Exercises.Register.pdb
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5.Exercises.Register.exe
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5.Exercises.Register.pdb
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\bin\Debug\Vaccinations.txt
+C:\Users\Labas\Desktop\visual studio\Lab5\Lab5. Exercises.Register\bin\Debug\Animals.txt
+D:\Lab5\Lab5. Exercises.Register\bin\Debug\Animals.txt
+D:\Lab5\Lab5. Exercises.Register\bin\Debug\Vaccinations.txt
+D:\Lab5\Lab5. Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe.config
+D:\Lab5\Lab5. Exercises.Register\bin\Debug\Lab5.Exercises.Register.exe
+D:\Lab5\Lab5. Exercises.Register\bin\Debug\Lab5.Exercises.Register.pdb
+D:\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5. Exercises.Register.csprojAssemblyReference.cache
+D:\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5. Exercises.Register.csproj.CoreCompileInputs.cache
+D:\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5.Exercises.Register.exe
+D:\Lab5\Lab5. Exercises.Register\obj\Debug\Lab5.Exercises.Register.pdb

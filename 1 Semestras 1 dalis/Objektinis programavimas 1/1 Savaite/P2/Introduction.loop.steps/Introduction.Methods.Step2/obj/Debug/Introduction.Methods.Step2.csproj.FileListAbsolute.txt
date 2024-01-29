@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.Methods.Step2\bin\Debug\Introduction.Methods.Step2.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.Methods.Step2\bin\Debug\Introduction.Methods.Step2.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.Methods.Step2\bin\Debug\Introduction.Methods.Step2.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.Methods.Step2\obj\Debug\Introduction.Methods.Step2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.Methods.Step2\obj\Debug\Introduction.Methods.Step2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.Methods.Step2\obj\Debug\Introduction.Methods.Step2.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.Methods.Step2\obj\Debug\Introduction.Methods.Step2.pdb

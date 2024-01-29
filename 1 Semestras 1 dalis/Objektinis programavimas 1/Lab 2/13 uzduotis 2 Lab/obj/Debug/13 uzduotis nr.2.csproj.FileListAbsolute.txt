@@ -1,0 +1,63 @@
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\SecondYearPlayers.txt
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\FirstYearPlayers.txt
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\13 uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\bin\Debug\13 uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis nr.2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis nr.2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis\obj\Debug\13 uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\bin\Debug\SecondYearPlayers.txt
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\bin\Debug\FirstYearPlayers.txt
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\SecondYearPlayers.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\FirstYearPlayers.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe.config
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csprojAssemblyReference.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\SecondYearPlayers.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\FirstYearPlayers.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe.config
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csprojAssemblyReference.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csproj.CoreCompileInputs.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.pdb
+D:\Lab 2\13 uzduotis 2 Lab\bin\Debug\SecondYearPlayers.txt
+D:\Lab 2\13 uzduotis 2 Lab\bin\Debug\FirstYearPlayers.txt
+D:\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe.config
+D:\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe
+D:\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.pdb
+D:\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csprojAssemblyReference.cache
+D:\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csproj.CoreCompileInputs.cache
+D:\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.exe
+D:\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\bin\Debug\SecondYearPlayers.txt
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\bin\Debug\FirstYearPlayers.txt
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\Lab 2\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.pdb
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\bin\Debug\SecondYearPlayers.txt
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\bin\Debug\FirstYearPlayers.txt
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe.config
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.exe
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\bin\Debug\13 uzduotis.pdb
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csprojAssemblyReference.cache
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\obj\Debug\13 uzduotis nr.2.csproj.CoreCompileInputs.cache
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.exe
+C:\Users\vyten\Desktop\Objektinis programavimas\13 uzduotis 2 Lab\obj\Debug\13 uzduotis.pdb

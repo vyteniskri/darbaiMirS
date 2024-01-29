@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.exe
+C:\Users\Labas\Desktop\Introduction.Loop.Step5\obj\Debug\Introduction.Loop.Step5.pdb
+C:\Users\Labas\Desktop\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.exe.config
+C:\Users\Labas\Desktop\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.exe
+C:\Users\Labas\Desktop\Introduction.Loop.Step5\bin\Debug\Introduction.Loop.Step5.pdb

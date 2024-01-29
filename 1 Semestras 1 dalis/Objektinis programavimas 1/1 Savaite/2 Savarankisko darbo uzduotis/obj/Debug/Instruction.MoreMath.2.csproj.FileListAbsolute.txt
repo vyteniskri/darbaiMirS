@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Instruction.MoreMath.2\obj\Debug\Instruction.MoreMath.2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Instruction.MoreMath.2\obj\Debug\Instruction.MoreMath.2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Instruction.MoreMath.2\bin\Debug\Instruction.MoreMath.2.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Instruction.MoreMath.2\bin\Debug\Instruction.MoreMath.2.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Instruction.MoreMath.2\bin\Debug\Instruction.MoreMath.2.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Instruction.MoreMath.2\obj\Debug\Instruction.MoreMath.2.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Instruction.MoreMath.2\obj\Debug\Instruction.MoreMath.2.pdb

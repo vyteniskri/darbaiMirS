@@ -1,0 +1,16 @@
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\bin\Debug\Students.txt
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\bin\Debug\4_SAV.exe.config
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\bin\Debug\4_SAV.exe
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\bin\Debug\4_SAV.pdb
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.exe
+C:\Users\Labas\Desktop\visual studio\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.pdb
+D:\Lab3.Exercises\4_SAV\bin\Debug\Students.txt
+D:\Lab3.Exercises\4_SAV\bin\Debug\4_SAV.exe.config
+D:\Lab3.Exercises\4_SAV\bin\Debug\4_SAV.exe
+D:\Lab3.Exercises\4_SAV\bin\Debug\4_SAV.pdb
+D:\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.csprojAssemblyReference.cache
+D:\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.csproj.CoreCompileInputs.cache
+D:\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.exe
+D:\Lab3.Exercises\4_SAV\obj\Debug\4_SAV.pdb

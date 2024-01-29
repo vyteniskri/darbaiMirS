@@ -1,0 +1,20 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath.3\bin\Debug\Introduction.MoreMath.3.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath.3\bin\Debug\Introduction.MoreMath.3.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath.3\bin\Debug\Introduction.MoreMath.3.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath.3\obj\Debug\3 Savarankisko darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath.3\obj\Debug\Introduction.MoreMath.3.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath.3\obj\Debug\Introduction.MoreMath.3.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\3 Savarankisko darbo uzduotis\bin\Debug\Introduction.MoreMath.3.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\3 Savarankisko darbo uzduotis\bin\Debug\Introduction.MoreMath.3.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\3 Savarankisko darbo uzduotis\bin\Debug\Introduction.MoreMath.3.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\3 Savarankisko darbo uzduotis\obj\Debug\3 Savarankisko darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\3 Savarankisko darbo uzduotis\obj\Debug\3 Savarankisko darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\3 Savarankisko darbo uzduotis\obj\Debug\Introduction.MoreMath.3.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\3 Savarankisko darbo uzduotis\obj\Debug\Introduction.MoreMath.3.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\3 Savarankisko darbo uzduotis\bin\Debug\Introduction.MoreMath.3.exe.config
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\3 Savarankisko darbo uzduotis\bin\Debug\Introduction.MoreMath.3.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\3 Savarankisko darbo uzduotis\bin\Debug\Introduction.MoreMath.3.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\3 Savarankisko darbo uzduotis\obj\Debug\3 Savarankisko darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\3 Savarankisko darbo uzduotis\obj\Debug\3 Savarankisko darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\3 Savarankisko darbo uzduotis\obj\Debug\Introduction.MoreMath.3.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\3 Savarankisko darbo uzduotis\obj\Debug\Introduction.MoreMath.3.pdb

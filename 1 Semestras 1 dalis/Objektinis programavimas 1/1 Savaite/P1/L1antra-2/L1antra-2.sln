@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1antra-2", "L1antra-2.csproj", "{F12594F4-DFE9-4267-BA79-A7FCDDE7AA48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12594F4-DFE9-4267-BA79-A7FCDDE7AA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12594F4-DFE9-4267-BA79-A7FCDDE7AA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12594F4-DFE9-4267-BA79-A7FCDDE7AA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12594F4-DFE9-4267-BA79-A7FCDDE7AA48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E87244A-EF09-4676-8063-F5C14C6E2B0A}
+	EndGlobalSection
+EndGlobal

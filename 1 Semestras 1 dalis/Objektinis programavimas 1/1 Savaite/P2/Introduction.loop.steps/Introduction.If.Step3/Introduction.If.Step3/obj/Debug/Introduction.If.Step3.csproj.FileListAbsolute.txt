@@ -1,0 +1,14 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step3\bin\Debug\Introduction.If.Step3.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step3\bin\Debug\Introduction.If.Step3.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.If.Step3\bin\Debug\Introduction.If.Step3.pdb
+D:\1 Atsiskaitymas\P2\Introduction.loop.steps\Introduction.If.Step3\bin\Debug\Introduction.If.Step3.exe.config
+D:\1 Atsiskaitymas\P2\Introduction.loop.steps\Introduction.If.Step3\bin\Debug\Introduction.If.Step3.exe
+D:\1 Atsiskaitymas\P2\Introduction.loop.steps\Introduction.If.Step3\bin\Debug\Introduction.If.Step3.pdb
+D:\1 Atsiskaitymas\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.csprojAssemblyReference.cache
+D:\1 Atsiskaitymas\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.csproj.CoreCompileInputs.cache
+D:\1 Atsiskaitymas\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.exe
+D:\1 Atsiskaitymas\P2\Introduction.loop.steps\Introduction.If.Step3\obj\Debug\Introduction.If.Step3.pdb

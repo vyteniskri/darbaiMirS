@@ -1,0 +1,6 @@
+﻿Valdas;Pavardenis;0.04
+Tomas;Lapas;0.04
+Vytenis;k;0.05
+Valdas;fgh;0.05
+Elena;hgjghj;0.05
+Elena;hgjghj;0.05

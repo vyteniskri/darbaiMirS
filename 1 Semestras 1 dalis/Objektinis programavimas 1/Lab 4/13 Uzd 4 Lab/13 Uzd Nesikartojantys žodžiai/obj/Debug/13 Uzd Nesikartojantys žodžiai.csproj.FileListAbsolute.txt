@@ -1,0 +1,27 @@
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\Knyga1.txt
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\Knyga2.txt
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.exe.config
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.exe
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.pdb
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.csprojAssemblyReference.cache
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.csproj.CoreCompileInputs.cache
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.exe
+D:\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.pdb
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\Knyga1.txt
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\Knyga2.txt
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.exe.config
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.exe
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.pdb
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.exe
+C:\Users\Labas\Desktop\visual studio\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\Knyga1.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\Knyga2.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.exe.config
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\bin\Debug\13 Uzd Nesikartojantys žodžiai.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.csprojAssemblyReference.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.csproj.CoreCompileInputs.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Lab 4\13 Uzd 4 Lab\13 Uzd Nesikartojantys žodžiai\obj\Debug\13 Uzd Nesikartojantys žodžiai.pdb

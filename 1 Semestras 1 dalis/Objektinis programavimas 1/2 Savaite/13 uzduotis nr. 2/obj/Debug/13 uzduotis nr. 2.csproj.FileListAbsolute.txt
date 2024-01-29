@@ -1,0 +1,36 @@
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\bin\Debug\FirstYear.txt
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\bin\Debug\SecondYear.txt
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe.config
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.pdb
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.exe
+C:\Users\Labas\Desktop\visual studio\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.pdb
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\bin\Debug\FirstYear.txt
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\bin\Debug\SecondYear.txt
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe.config
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.pdb
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.exe
+C:\Users\Labas\Desktop\visual studio\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\FirstYear.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\SecondYear.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe.config
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csprojAssemblyReference.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\FirstYear.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\SecondYear.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe.config
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\bin\Debug\13 uzduotis nr. 2.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csprojAssemblyReference.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.csproj.CoreCompileInputs.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\13 uzduotis nr. 2\obj\Debug\13 uzduotis nr. 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Pirma savarankiško darbo užduotis\bin\Debug\Pirma savarankiško darbo užduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Pirma savarankiško darbo užduotis\bin\Debug\Pirma savarankiško darbo užduotis.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Pirma savarankiško darbo užduotis\bin\Debug\Pirma savarankiško darbo užduotis.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Pirma savarankiško darbo užduotis\obj\Debug\Pirma savarankiško darbo užduotis.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Pirma savarankiško darbo užduotis\obj\Debug\Pirma savarankiško darbo užduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Pirma savarankiško darbo užduotis\obj\Debug\Pirma savarankiško darbo užduotis.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Pirma savarankiško darbo užduotis\obj\Debug\Pirma savarankiško darbo užduotis.pdb

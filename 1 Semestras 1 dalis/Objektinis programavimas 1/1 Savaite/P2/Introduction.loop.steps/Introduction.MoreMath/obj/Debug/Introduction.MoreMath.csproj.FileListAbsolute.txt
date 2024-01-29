@@ -1,0 +1,6 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath\bin\Debug\Introduction.MoreMath.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath\bin\Debug\Introduction.MoreMath.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath\bin\Debug\Introduction.MoreMath.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath\obj\Debug\Introduction.MoreMath.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath\obj\Debug\Introduction.MoreMath.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.MoreMath\obj\Debug\Introduction.MoreMath.pdb

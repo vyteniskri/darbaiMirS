@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\4 Savarankisko darbo uzduotis\obj\Debug\4 Savarankisko darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\4 Savarankisko darbo uzduotis\bin\Debug\4 Savarankisko darbo uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\4 Savarankisko darbo uzduotis\bin\Debug\4 Savarankisko darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\4 Savarankisko darbo uzduotis\bin\Debug\4 Savarankisko darbo uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\4 Savarankisko darbo uzduotis\obj\Debug\4 Savarankisko darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\4 Savarankisko darbo uzduotis\obj\Debug\4 Savarankisko darbo uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\4 Savarankisko darbo uzduotis\obj\Debug\4 Savarankisko darbo uzduotis.csprojAssemblyReference.cache

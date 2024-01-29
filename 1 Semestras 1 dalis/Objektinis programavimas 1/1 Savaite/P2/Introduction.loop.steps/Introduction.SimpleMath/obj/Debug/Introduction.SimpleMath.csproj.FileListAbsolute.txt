@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.pdb

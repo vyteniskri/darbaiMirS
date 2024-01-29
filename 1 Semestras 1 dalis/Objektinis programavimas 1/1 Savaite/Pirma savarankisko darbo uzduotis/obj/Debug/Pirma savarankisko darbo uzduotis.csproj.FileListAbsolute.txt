@@ -1,0 +1,24 @@
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\Pirma savarankisko darbo uzduotis\bin\Debug\Turists.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\bin\Debug\Turists.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.exe.config
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\bin\Debug\Turists.txt
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.exe.config
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\bin\Debug\Pirma savarankisko darbo uzduotis.pdb
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.exe
+C:\Users\vytkri1\OneDrive - Kaunas University of Technology\Objektinis programavimas\Pirma savarankisko darbo uzduotis\obj\Debug\Pirma savarankisko darbo uzduotis.pdb

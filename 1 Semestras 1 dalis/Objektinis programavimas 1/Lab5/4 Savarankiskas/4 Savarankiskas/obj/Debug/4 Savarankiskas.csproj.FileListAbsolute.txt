@@ -1,0 +1,18 @@
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\Players.txt
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\Teams.txt
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\4 Savarankiskas.exe.config
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\4 Savarankiskas.exe
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\4 Savarankiskas.pdb
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.exe
+C:\Users\Labas\Desktop\visual studio\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.pdb
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\Players.txt
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\Teams.txt
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\4 Savarankiskas.exe.config
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\4 Savarankiskas.exe
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\bin\Debug\4 Savarankiskas.pdb
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.csprojAssemblyReference.cache
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.csproj.CoreCompileInputs.cache
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.exe
+D:\Lab5\4 Savarankiskas\4 Savarankiskas\obj\Debug\4 Savarankiskas.pdb

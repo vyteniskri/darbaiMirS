@@ -1,0 +1,6 @@
+﻿Kriščiūnas;Vytenis;A grupė;3;6;7;8
+Prapuolenis;Tomas;F grupė;2;8;9
+Meidelytė;Gabija;A grupė;5;8;7;5;9;6
+Petraitis;Jonas;F grupė;1;10
+Jonaitis;Nedas;T grupė;2;8;9
+Marijonaitis;Vilius;T grupė;1;5

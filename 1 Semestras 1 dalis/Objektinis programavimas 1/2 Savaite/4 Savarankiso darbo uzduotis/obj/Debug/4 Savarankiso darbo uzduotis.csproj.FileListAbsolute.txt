@@ -1,0 +1,32 @@
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\bin\Debug\Apartments.txt
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.pdb
+D:\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\Apartments.txt
+D:\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe.config
+D:\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe
+D:\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.pdb
+D:\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csprojAssemblyReference.cache
+D:\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csproj.CoreCompileInputs.cache
+D:\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.exe
+D:\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\Apartments.txt
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe.config
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.pdb
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.exe
+C:\Users\Labas\Desktop\visual studio\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\Apartments.txt
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe.config
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\bin\Debug\4 Savarankiso darbo uzduotis.pdb
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csprojAssemblyReference.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.exe
+C:\Users\Labas\OneDrive - Kaunas University of Technology\Objektinis programavimas\2 Savaite\4 Savarankiso darbo uzduotis\obj\Debug\4 Savarankiso darbo uzduotis.pdb

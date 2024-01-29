@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\L1pirma-1\bin\Debug\L1pirma-1.exe.config
+C:\Users\Labas\Desktop\L1pirma-1\bin\Debug\L1pirma-1.exe
+C:\Users\Labas\Desktop\L1pirma-1\bin\Debug\L1pirma-1.pdb
+C:\Users\Labas\Desktop\L1pirma-1\obj\Debug\L1pirma-1.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\L1pirma-1\obj\Debug\L1pirma-1.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\L1pirma-1\obj\Debug\L1pirma-1.exe
+C:\Users\Labas\Desktop\L1pirma-1\obj\Debug\L1pirma-1.pdb

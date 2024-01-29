@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\L1antra-2\obj\Debug\L1antra-2.csprojAssemblyReference.cache
+C:\Users\Labas\Desktop\L1antra-2\obj\Debug\L1antra-2.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\L1antra-2\bin\Debug\L1antra-2.exe.config
+C:\Users\Labas\Desktop\L1antra-2\bin\Debug\L1antra-2.exe
+C:\Users\Labas\Desktop\L1antra-2\bin\Debug\L1antra-2.pdb
+C:\Users\Labas\Desktop\L1antra-2\obj\Debug\L1antra-2.exe
+C:\Users\Labas\Desktop\L1antra-2\obj\Debug\L1antra-2.pdb

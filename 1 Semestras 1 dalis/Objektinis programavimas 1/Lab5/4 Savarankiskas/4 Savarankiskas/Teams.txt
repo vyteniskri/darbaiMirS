@@ -1,0 +1,2 @@
+﻿Žalgiris;Kaunas;Jasikevičius;20
+Ravens;Barselona;Bernulis;12

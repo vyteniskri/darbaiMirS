@@ -1,0 +1,7 @@
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.CharsAndStrings.Step1\bin\Debug\Introduction.CharsAndStrings.Step1.exe.config
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.CharsAndStrings.Step1\bin\Debug\Introduction.CharsAndStrings.Step1.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.CharsAndStrings.Step1\bin\Debug\Introduction.CharsAndStrings.Step1.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.CharsAndStrings.Step1\obj\Debug\Introduction.CharsAndStrings.Step1.csproj.CoreCompileInputs.cache
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.CharsAndStrings.Step1\obj\Debug\Introduction.CharsAndStrings.Step1.exe
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.CharsAndStrings.Step1\obj\Debug\Introduction.CharsAndStrings.Step1.pdb
+C:\Users\Labas\Desktop\visual studio\P2\Introduction.loop.steps\Introduction.CharsAndStrings.Step1\obj\Debug\Introduction.CharsAndStrings.Step1.csprojAssemblyReference.cache
