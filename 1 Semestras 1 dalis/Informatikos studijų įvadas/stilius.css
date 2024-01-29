@@ -1,0 +1,28 @@
+.div{
+	width:600px;
+	color:#99ff99;
+	border-style:dashed;
+	border: 1px;
+	border:center;
+}
+
+.img{
+	opacity: 0.5;
+	height:100px;
+	border: 1px solid black;
+	left: 30px;
+	bottom: 10px;
+	float: right;
+}
+
+.sizeColor{
+	size:20px;
+	color:blue;
+}
+
+p {
+	color:navy;
+	font-family:Georgia;
+	margin-bottom:20px;
+	line-height:2;
+}

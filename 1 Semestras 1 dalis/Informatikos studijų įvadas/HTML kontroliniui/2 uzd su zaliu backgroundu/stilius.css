@@ -1,0 +1,54 @@
+div{
+	width:600px;
+	background-color:#99ff99;
+	border:1px dashed;
+	margin:auto;
+	padding:25px;
+}
+
+.center{
+	text-align:center;
+}
+
+img{
+	height:100px;
+	border: 1px solid black;
+	float:right;
+	margin: 0px 0px 10px 30px;
+	opacity: 0.5;
+}
+
+span{
+	color:blue;
+	font-size:20px;
+}
+
+p{
+	color:navy;
+	font-family:Georgia;
+	line-height:2;
+	margin-bottom: 20px;
+}
+
+.columns{
+	column-count:2;
+	column-gap: 5px;
+}
+
+hr{
+	width:300px;
+	border:dashed;
+	line-height:3px;
+	color:blue;
+}
+
+a:link{
+	color:black;
+	text-decoration:underline;
+	
+}
+
+a:hover{
+	color:white;
+	text-decoration:none;
+}

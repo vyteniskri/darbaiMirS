@@ -1,0 +1,11 @@
+c = input('Iveskite spinduli: ');
+d = input('Iveskite staciakampio auksti: ');
+b = input('Iveskite trikampio ilgi: ');
+S3 = pi * c^2 /2;
+S2 = 2 * c * d;
+S1 = b * d / 2 * 2;
+S = S1 + S2 + S3;
+disp (['S1 = ' num2str(S1)]);
+disp (['S2 = ' num2str(S2)]);
+disp (['S3 = ' num2str(S3)]);
+disp (['S = ' num2str(S)]);
