@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618911384 source:c:\users\labas\desktop\3.7 uzduotis\main.cpp
+	<iostream>
+	<fstream>
+

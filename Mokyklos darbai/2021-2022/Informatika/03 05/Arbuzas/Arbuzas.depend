@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614977115 source:c:\users\labas\desktop\arbuzas\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

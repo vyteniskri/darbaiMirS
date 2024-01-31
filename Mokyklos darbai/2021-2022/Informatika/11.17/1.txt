@@ -1,0 +1,26 @@
+#include <iostream>
+#include <cmath>
+#include <fstream>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+    double a, n;
+    ofstream fr ("Reiksmes.txt");
+    for (int i = 1; i <= 100; i++)
+    {
+        fr << setw(3)<<i;
+        fr << setw(10)<<setprecision(8)<<sqrt(i);
+        fr << endl;
+
+
+
+    }
+    fr.close();
+
+
+
+
+    return 0;
+}

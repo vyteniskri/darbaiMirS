@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610450654 source:c:\users\user\desktop\kuprines\main.cpp
+	<iostream>
+	<fstream>
+

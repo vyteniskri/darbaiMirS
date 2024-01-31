@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614712437 source:c:\users\labas\desktop\konteineriai\main.cpp
+	<iostream>
+	<fstream>
+

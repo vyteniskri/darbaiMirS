@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605609386 source:c:\users\user\desktop\isvestis\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<iomanip>
+

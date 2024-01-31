@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620149304 source:c:\users\labas\desktop\abs\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+

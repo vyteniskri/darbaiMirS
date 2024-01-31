@@ -1,0 +1,5 @@
+Visu klasiu plotai:
+60 65 25 
+Bendras klasiu plotas: 150
+Didziausias klases plotas 65
+Maziausias klases plotas 25

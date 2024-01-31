@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620150952 source:c:\users\labas\desktop\salinimas\main.cpp
+	<iostream>
+	<fstream>
+
