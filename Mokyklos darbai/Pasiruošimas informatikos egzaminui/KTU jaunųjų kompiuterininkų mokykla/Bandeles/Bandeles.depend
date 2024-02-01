@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601993089 source:c:\users\user\desktop\bandeles\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

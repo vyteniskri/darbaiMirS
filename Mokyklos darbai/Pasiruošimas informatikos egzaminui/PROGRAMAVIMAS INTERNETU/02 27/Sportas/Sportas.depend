@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615241798 source:c:\users\labas\desktop\sportas\main.cpp
+	<iostream>
+	<fstream>
+

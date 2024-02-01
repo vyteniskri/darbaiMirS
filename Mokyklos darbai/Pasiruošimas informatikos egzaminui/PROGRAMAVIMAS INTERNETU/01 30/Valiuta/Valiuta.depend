@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612011770 source:c:\users\user\desktop\valiuta\main.cpp
+	<iostream>
+	<fstream>
+

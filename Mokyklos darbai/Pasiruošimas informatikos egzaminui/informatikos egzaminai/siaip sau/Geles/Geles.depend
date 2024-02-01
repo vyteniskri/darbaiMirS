@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623257442 source:c:\users\labas\desktop\geles\main.cpp
+	<iostream>
+	<fstream>
+

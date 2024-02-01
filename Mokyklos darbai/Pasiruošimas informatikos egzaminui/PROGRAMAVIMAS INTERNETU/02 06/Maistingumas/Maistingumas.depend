@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612600020 source:c:\users\labas\desktop\maistingumas\main.cpp
+	<iostream>
+	<fstream>
+

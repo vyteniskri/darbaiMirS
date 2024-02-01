@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608063671 source:c:\users\user\desktop\geografija\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

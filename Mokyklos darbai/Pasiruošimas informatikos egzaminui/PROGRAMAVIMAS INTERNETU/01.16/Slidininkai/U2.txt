@@ -1,0 +1,13 @@
+6
+Petras  15 20 00
+Jurgis  16 12 12
+Rimas 15 15 59
+Zigmas  16 23 9
+Romas  15 15 15
+Rytis 16 23 9
+5
+Zigmas  16 43 15
+Petras  15 50 10
+Romas  16 5 35
+Rytis 16 55 59
+Jurgis 16 42 22

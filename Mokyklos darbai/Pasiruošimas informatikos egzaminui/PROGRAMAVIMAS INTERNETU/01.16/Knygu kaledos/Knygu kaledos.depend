@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610784079 source:c:\users\user\desktop\knygu kaledos\main.cpp
+	<iostream>
+	<fstream>
+

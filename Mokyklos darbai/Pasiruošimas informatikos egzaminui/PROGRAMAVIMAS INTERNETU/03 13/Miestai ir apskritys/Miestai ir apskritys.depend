@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615628796 source:c:\users\labas\desktop\miestai ir apskritys\main.cpp
+	<iostream>
+	<fstream>
+

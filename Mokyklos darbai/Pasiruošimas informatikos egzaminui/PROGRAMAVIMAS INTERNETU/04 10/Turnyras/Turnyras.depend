@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618041489 source:c:\users\labas\desktop\turnyras\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

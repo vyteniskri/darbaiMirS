@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619627574 source:c:\users\labas\desktop\kontrolinio darbo rezultatai\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

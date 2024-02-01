@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607986667 source:c:\users\user\desktop\balsavimas\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

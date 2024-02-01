@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621019925 source:c:\users\labas\desktop\zuvys\main.cpp
+	<iostream>
+	<fstream>
+

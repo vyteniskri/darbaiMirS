@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619696681 source:c:\users\labas\desktop\ideja lietuvai\main.cpp
+	<iostream>
+	<fstream>
+

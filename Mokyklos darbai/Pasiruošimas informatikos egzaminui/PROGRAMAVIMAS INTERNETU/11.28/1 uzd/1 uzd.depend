@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606574405 source:c:\users\user\desktop\1 uzd\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612887381 source:c:\users\labas\desktop\siuntu tarnyba\main.cpp
+	<iostream>
+	<fstream>
+

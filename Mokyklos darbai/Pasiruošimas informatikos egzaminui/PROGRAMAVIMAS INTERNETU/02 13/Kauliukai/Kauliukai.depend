@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614116061 source:c:\users\labas\desktop\kauliukai\main.cpp
+	<iostream>
+	<fstream>
+

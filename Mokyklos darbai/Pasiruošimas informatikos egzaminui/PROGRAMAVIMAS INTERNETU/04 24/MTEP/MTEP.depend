@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619821752 source:c:\users\labas\desktop\mtep\main.cpp
+	<iostream>
+	<fstream>
+

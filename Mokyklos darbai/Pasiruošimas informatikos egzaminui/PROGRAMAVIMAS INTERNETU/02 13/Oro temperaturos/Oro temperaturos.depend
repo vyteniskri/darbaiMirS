@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613201502 source:c:\users\labas\desktop\oro temperaturos\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614411129 source:c:\users\labas\desktop\grybautojai\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

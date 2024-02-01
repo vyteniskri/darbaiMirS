@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623260824 source:c:\users\labas\desktop\varzybos\main.cpp
+	<iostream>
+	<fstream>
+

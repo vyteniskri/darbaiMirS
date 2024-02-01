@@ -1,0 +1,7 @@
+6 2
+TB
+ZB
+B
+GB
+MB
+b

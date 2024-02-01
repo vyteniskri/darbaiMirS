@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623092563 source:c:\users\labas\desktop\tyrimai\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607154663 source:c:\users\user\desktop\avalyne\main.cpp
+	<iostream>
+	<fstream>
+

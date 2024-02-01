@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612820041 source:c:\users\labas\desktop\pirmoku darbeliai 2\main.cpp
+	<fstream>
+	<iomanip>
+	<iostream>
+

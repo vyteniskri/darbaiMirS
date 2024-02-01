@@ -1,0 +1,5 @@
+Zigmas 20 6
+Jurgis 30 10
+Petras 30 10
+Rytis 32 50
+Romas 50 20

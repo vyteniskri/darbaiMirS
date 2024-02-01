@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623238067 source:c:\users\labas\desktop\kelione\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

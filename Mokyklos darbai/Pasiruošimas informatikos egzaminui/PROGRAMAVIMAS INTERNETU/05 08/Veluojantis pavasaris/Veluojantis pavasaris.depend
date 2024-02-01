@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620470383 source:c:\users\labas\desktop\veluojantis pavasaris\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,12 @@
+500 100 50 20 10 5 1
+20 20 20 20 20 20 20
+9
+Daivaras 1169
+Jovita 1250
+Egidijus 1721
+Algis 1694
+Sarpis 2111
+Jonas 2564
+Petras 960
+Gardevutis 2120
+Smygolas 1203

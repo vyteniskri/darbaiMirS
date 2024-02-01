@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621955555 source:c:\users\labas\desktop\gimtadienis\main.cpp
+	<iostream>
+	<fstream>
+

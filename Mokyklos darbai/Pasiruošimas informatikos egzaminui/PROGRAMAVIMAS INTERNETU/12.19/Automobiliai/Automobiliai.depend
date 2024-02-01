@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608365387 source:c:\users\user\desktop\automobiliai\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

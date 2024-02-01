@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621672170 source:c:\users\labas\desktop\moliugai\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

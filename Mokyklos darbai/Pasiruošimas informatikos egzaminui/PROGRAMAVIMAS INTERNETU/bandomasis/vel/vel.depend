@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621066608 source:c:\users\labas\desktop\vel\main.cpp
+	<iostream>
+	<fstream>
+
