@@ -1,0 +1,49 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.ktuperks.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_perks"
+        android:name="com.example.ktuperks.ui.perks.PerksFragment"
+        android:label="@string/menu_perks"
+        tools:layout="@layout/fragment_perks">
+        <action
+            android:id="@+id/action_nav_perks_to_detailFragment"
+            android:label="@string/Details"
+
+            app:destination="@id/nav_detail" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_calendar"
+        android:name="com.example.ktuperks.ui.calendar.CalendarFragment"
+        android:label="@string/registrated"
+        tools:layout="@layout/calendar_fragment" />
+
+    <fragment
+        android:id="@+id/nav_detail"
+        android:name="com.example.ktuperks.ui.detail.DetailFragment"
+        android:label="@string/perk_detail"
+        tools:layout="@layout/fragment_detail" />
+
+    <fragment
+        android:id="@+id/nav_mindletic"
+        android:name="com.example.ktuperks.ui.mindletic.MindleticFragment"
+        android:label="@string/menu_mind"
+        tools:layout="@layout/fragment_mindletic" />
+
+<!--    <fragment-->
+<!--        android:id="@+id/nav_logout"-->
+<!--        android:name="com.example.ktuperks.ui.detail.DetailFragment"-->
+<!--        android:label="@string/menu_mind"-->
+<!--        app:route=""/>-->
+
+</navigation>

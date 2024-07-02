@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">benefitED</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Meniu</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="confirmPassword">Confirm password</string>
+    <string name="show">Show</string>
+    <string name="default_notification_channel_id" translatable="false">default_channel</string>
+    <string name="channel_name">Your Channel Name</string>
+    <string name="channel_description">Your Channel Description</string>
+
+    <string name="menu_perks">Benefits</string>
+    <string name="title">Title</string>
+    <string name="location">Location</string>
+    <string name="information">Information</string>
+    <string name="perk_detail">Details</string>
+    <string name="menu_mind">Mindletic</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_calendar">Calendar</string>
+    <string name="your_reservations">Your Reservations</string>
+    <string name="reservation_details">Reservation Details</string>
+    <string name="cancel">Cancel</string>
+    <string name="first_step">\n1. Follow the link to be redirected to the Mindletic app home page.</string>
+    <string name="mindletic_steps">
+        1. Follow the link to be redirected to the Mindletic app home page.\n\n
+        2. Click "Get Started" and create your account. You can use both your work and personal email for your account.\n\n
+        3. In the box that pops up, confirm that you are a KTU employee by entering your work email address (please note that the end of the email is already specified, you do not need to repeat it).\n\n
+        4. You should have received a confirmation email in your work email account. Click on "verify email address".\n\n
+        5. Go back to the app. If the features are still locked, follow provided link again.\n\n
+        6. The Mindletic app is free and anonymous. You have access to free consultations with a certified psychologist to help you on your journey towards emotional balance. No one will see what emotions you are marking or who you have had counselling with and when.    </string>
+    <string name="Details">Details</string>
+    <string name="logo_description" />
+    <string name="registrated">registratED</string>
+</resources>

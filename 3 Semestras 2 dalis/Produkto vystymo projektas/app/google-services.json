@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "788109124055",
+    "firebase_url": "https://ktuperks-default-rtdb.firebaseio.com",
+    "project_id": "ktuperks",
+    "storage_bucket": "ktuperks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788109124055:android:3f33d34c773e2fe6c46b92",
+        "android_client_info": {
+          "package_name": "com.example.ktuperks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXS2oKQzurGsR5ckhcYaNc6uD3IcxQJjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

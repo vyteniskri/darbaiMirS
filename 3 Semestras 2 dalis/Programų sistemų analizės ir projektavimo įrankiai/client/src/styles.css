@@ -1,0 +1,155 @@
+
+
+.forUpload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh; /* Set height to 100% of the viewport height */
+  
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh; /* Set height to 100% of the viewport height */
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    position: absolute;
+    top: 10px; /* Adjust the top position as needed */
+    right: 10px; /* Adjust the right position as needed */
+  }
+  
+  .button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+  }
+
+  /* Hover effect */
+.button:hover {
+    opacity: 0.7;
+  }
+  
+  .signup {
+    background-color: #007bff; /* Change to your desired sign up button color */
+  }
+
+  .uploadClick {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: #00ff4c; /* Change to your desired sign up button color */
+  }
+
+  .uploadClick:hover {
+    opacity: 0.7;
+  }
+
+  .signupClick:hover {
+    opacity: 0.7;
+  }
+  .signupClick {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: #00ff4c; /* Change to your desired sign up button color */
+  }
+  
+  .login {
+    background-color: #007bff; /* Change to your desired login button color */
+  }
+
+  .home {
+    position: left;
+    margin-top: 10px;
+    background-color: #007bff; /* Change to your desired login button color */
+  }
+
+  .background {
+    background-color: #2c3a4dd0; /* Set your desired background color here */
+    padding-bottom: 10px;
+}
+
+body {
+    background-color: #bae3ee; /* Set your desired background color here */
+}
+
+.logout {
+  background-color: #ff1e00; /* Change to your desired login button color */
+}
+
+.profile {
+  background-color: #007bff;
+}
+
+
+.upload {
+  background-color: #15ac29;
+}
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.signup-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.signup-button:hover {
+    background-color: #0056b3;
+}
+
+.error-message {
+    font-size: 15px;
+    color: #b30000;
+}
+
+.post-wrapper {
+  margin-bottom: 20px; /* Add some spacing between posts */
+}
+
+.posts {
+  border: 1px solid #1a0e0e; /* Add border around each post */
+  padding: 10px; /* Add padding inside the border */
+  border-radius: 5px; /* Add rounded corners */
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.post-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Display three columns */
+  gap: 20px; /* Add some gap between columns */
+}
+
+.posts img {
+  width: 100%; /* Ensure the image takes up the full width of its container */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+
+}
